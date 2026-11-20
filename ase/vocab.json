@@ -1,0 +1,1984 @@
+{
+ "pack": "ase",
+ "version": 1,
+ "lettersRecognized": false,
+ "source": "PopSign ASL v1.0 / Google ISLR (CC BY 4.0)",
+ "signs": [
+  {
+   "id": "tv",
+   "gloss": "TV",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "after",
+   "gloss": "AFTER",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "airplane",
+   "gloss": "AIRPLANE",
+   "cat": "things",
+   "rec": true,
+   "similar": [
+    "stay"
+   ]
+  },
+  {
+   "id": "all",
+   "gloss": "ALL",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "alligator",
+   "gloss": "ALLIGATOR",
+   "cat": "animals",
+   "rec": true,
+   "similar": [
+    "rain"
+   ]
+  },
+  {
+   "id": "animal",
+   "gloss": "ANIMAL",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "another",
+   "gloss": "ANOTHER",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "any",
+   "gloss": "ANY",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "apple",
+   "gloss": "APPLE",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "arm",
+   "gloss": "ARM",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "aunt",
+   "gloss": "AUNT",
+   "cat": "people",
+   "rec": true,
+   "similar": [
+    "nuts"
+   ]
+  },
+  {
+   "id": "awake",
+   "gloss": "AWAKE",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "wake"
+   ]
+  },
+  {
+   "id": "backyard",
+   "gloss": "BACKYARD",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "bad",
+   "gloss": "BAD",
+   "cat": "feelings",
+   "rec": true,
+   "similar": [
+    "quiet",
+    "hot"
+   ]
+  },
+  {
+   "id": "balloon",
+   "gloss": "BALLOON",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "bath",
+   "gloss": "BATH",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "because",
+   "gloss": "BECAUSE",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "bed",
+   "gloss": "BED",
+   "cat": "things",
+   "rec": false,
+   "similar": [
+    "listen"
+   ]
+  },
+  {
+   "id": "bedroom",
+   "gloss": "BEDROOM",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "bee",
+   "gloss": "BEE",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "before",
+   "gloss": "BEFORE",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "beside",
+   "gloss": "BESIDE",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "person"
+   ]
+  },
+  {
+   "id": "better",
+   "gloss": "BETTER",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "bird",
+   "gloss": "BIRD",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "black",
+   "gloss": "BLACK",
+   "cat": "colors",
+   "rec": true,
+   "similar": [
+    "up"
+   ]
+  },
+  {
+   "id": "blow",
+   "gloss": "BLOW",
+   "cat": "actions",
+   "rec": true,
+   "similar": [
+    "hate"
+   ]
+  },
+  {
+   "id": "blue",
+   "gloss": "BLUE",
+   "cat": "colors",
+   "rec": true,
+   "similar": [
+    "tree",
+    "flag"
+   ]
+  },
+  {
+   "id": "boat",
+   "gloss": "BOAT",
+   "cat": "things",
+   "rec": true,
+   "similar": [
+    "there"
+   ]
+  },
+  {
+   "id": "book",
+   "gloss": "BOOK",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "boy",
+   "gloss": "BOY",
+   "cat": "people",
+   "rec": true,
+   "similar": [
+    "elephant",
+    "donkey"
+   ]
+  },
+  {
+   "id": "brother",
+   "gloss": "BROTHER",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "brown",
+   "gloss": "BROWN",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "bug",
+   "gloss": "BUG",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "bye",
+   "gloss": "BYE",
+   "cat": "greetings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "callonphone",
+   "gloss": "CALL ON PHONE",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "can",
+   "gloss": "CAN",
+   "cat": "actions",
+   "rec": true,
+   "similar": [
+    "yes"
+   ]
+  },
+  {
+   "id": "car",
+   "gloss": "CAR",
+   "cat": "things",
+   "rec": true,
+   "similar": [
+    "milk"
+   ]
+  },
+  {
+   "id": "carrot",
+   "gloss": "CARROT",
+   "cat": "food",
+   "rec": true,
+   "similar": [
+    "icecream"
+   ]
+  },
+  {
+   "id": "cat",
+   "gloss": "CAT",
+   "cat": "animals",
+   "rec": true,
+   "similar": [
+    "hair"
+   ]
+  },
+  {
+   "id": "cereal",
+   "gloss": "CEREAL",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "chair",
+   "gloss": "CHAIR",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "cheek",
+   "gloss": "CHEEK",
+   "cat": "health",
+   "rec": false,
+   "similar": [
+    "cry",
+    "nose"
+   ]
+  },
+  {
+   "id": "child",
+   "gloss": "CHILD",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "chin",
+   "gloss": "CHIN",
+   "cat": "health",
+   "rec": false,
+   "similar": [
+    "say",
+    "lips",
+    "eye"
+   ]
+  },
+  {
+   "id": "chocolate",
+   "gloss": "CHOCOLATE",
+   "cat": "food",
+   "rec": true,
+   "similar": [
+    "cloud"
+   ]
+  },
+  {
+   "id": "clean",
+   "gloss": "CLEAN",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "close",
+   "gloss": "CLOSE",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "closet",
+   "gloss": "CLOSET",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "cloud",
+   "gloss": "CLOUD",
+   "cat": "things",
+   "rec": true,
+   "similar": [
+    "chocolate"
+   ]
+  },
+  {
+   "id": "clown",
+   "gloss": "CLOWN",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "cow",
+   "gloss": "COW",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "cowboy",
+   "gloss": "COWBOY",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "cry",
+   "gloss": "CRY",
+   "cat": "feelings",
+   "rec": true,
+   "similar": [
+    "red",
+    "cheek"
+   ]
+  },
+  {
+   "id": "cut",
+   "gloss": "CUT",
+   "cat": "actions",
+   "rec": true,
+   "similar": [
+    "scissors"
+   ]
+  },
+  {
+   "id": "cute",
+   "gloss": "CUTE",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "dad",
+   "gloss": "DAD",
+   "cat": "people",
+   "rec": true,
+   "similar": [
+    "sick",
+    "grandpa"
+   ]
+  },
+  {
+   "id": "dance",
+   "gloss": "DANCE",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "dirty",
+   "gloss": "DIRTY",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "dog",
+   "gloss": "DOG",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "doll",
+   "gloss": "DOLL",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "donkey",
+   "gloss": "DONKEY",
+   "cat": "animals",
+   "rec": true,
+   "similar": [
+    "boy"
+   ]
+  },
+  {
+   "id": "down",
+   "gloss": "DOWN",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "drawer",
+   "gloss": "DRAWER",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "drink",
+   "gloss": "DRINK",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "drop",
+   "gloss": "DROP",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "dry",
+   "gloss": "DRY",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "dryer",
+   "gloss": "DRYER",
+   "cat": "things",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "duck",
+   "gloss": "DUCK",
+   "cat": "animals",
+   "rec": true,
+   "similar": [
+    "tongue"
+   ]
+  },
+  {
+   "id": "ear",
+   "gloss": "EAR",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "elephant",
+   "gloss": "ELEPHANT",
+   "cat": "animals",
+   "rec": true,
+   "similar": [
+    "boy"
+   ]
+  },
+  {
+   "id": "empty",
+   "gloss": "EMPTY",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "every",
+   "gloss": "EVERY",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "eye",
+   "gloss": "EYE",
+   "cat": "health",
+   "rec": false,
+   "similar": [
+    "nose",
+    "tooth",
+    "chin"
+   ]
+  },
+  {
+   "id": "face",
+   "gloss": "FACE",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "fall",
+   "gloss": "FALL",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "farm",
+   "gloss": "FARM",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "fast",
+   "gloss": "FAST",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "feet",
+   "gloss": "FEET",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "find",
+   "gloss": "FIND",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "fine",
+   "gloss": "FINE",
+   "cat": "greetings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "finger",
+   "gloss": "FINGER",
+   "cat": "health",
+   "rec": false,
+   "similar": [
+    "wait"
+   ]
+  },
+  {
+   "id": "finish",
+   "gloss": "FINISH",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "fireman",
+   "gloss": "FIREMAN",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "first",
+   "gloss": "FIRST",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "fish",
+   "gloss": "FISH",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "flag",
+   "gloss": "FLAG",
+   "cat": "things",
+   "rec": true,
+   "similar": [
+    "blue"
+   ]
+  },
+  {
+   "id": "flower",
+   "gloss": "FLOWER",
+   "cat": "things",
+   "rec": false,
+   "similar": [
+    "napkin",
+    "smile"
+   ]
+  },
+  {
+   "id": "food",
+   "gloss": "FOOD",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "for",
+   "gloss": "FOR",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "frenchfries",
+   "gloss": "FRENCH FRIES",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "frog",
+   "gloss": "FROG",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "garbage",
+   "gloss": "GARBAGE",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "gift",
+   "gloss": "GIFT",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "giraffe",
+   "gloss": "GIRAFFE",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "girl",
+   "gloss": "GIRL",
+   "cat": "people",
+   "rec": true,
+   "similar": [
+    "hide"
+   ]
+  },
+  {
+   "id": "give",
+   "gloss": "GIVE",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "glasswindow",
+   "gloss": "GLASS WINDOW",
+   "cat": "things",
+   "rec": false,
+   "similar": [
+    "tooth",
+    "say"
+   ]
+  },
+  {
+   "id": "go",
+   "gloss": "GO",
+   "cat": "actions",
+   "rec": true,
+   "similar": [
+    "outside"
+   ]
+  },
+  {
+   "id": "goose",
+   "gloss": "GOOSE",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "grandma",
+   "gloss": "GRANDMA",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "grandpa",
+   "gloss": "GRANDPA",
+   "cat": "people",
+   "rec": true,
+   "similar": [
+    "dad"
+   ]
+  },
+  {
+   "id": "grass",
+   "gloss": "GRASS",
+   "cat": "things",
+   "rec": false,
+   "similar": [
+    "time"
+   ]
+  },
+  {
+   "id": "green",
+   "gloss": "GREEN",
+   "cat": "colors",
+   "rec": true,
+   "similar": [
+    "owie"
+   ]
+  },
+  {
+   "id": "gum",
+   "gloss": "GUM",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "hair",
+   "gloss": "HAIR",
+   "cat": "health",
+   "rec": true,
+   "similar": [
+    "cat"
+   ]
+  },
+  {
+   "id": "happy",
+   "gloss": "HAPPY",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "hat",
+   "gloss": "HAT",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "hate",
+   "gloss": "HATE",
+   "cat": "feelings",
+   "rec": true,
+   "similar": [
+    "blow"
+   ]
+  },
+  {
+   "id": "have",
+   "gloss": "HAVE",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "haveto",
+   "gloss": "HAVE TO",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "hesheit"
+   ]
+  },
+  {
+   "id": "head",
+   "gloss": "HEAD",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "hear",
+   "gloss": "HEAR",
+   "cat": "actions",
+   "rec": true,
+   "similar": [
+    "up"
+   ]
+  },
+  {
+   "id": "helicopter",
+   "gloss": "HELICOPTER",
+   "cat": "things",
+   "rec": true,
+   "similar": [
+    "ride"
+   ]
+  },
+  {
+   "id": "hello",
+   "gloss": "HELLO",
+   "cat": "greetings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "hen",
+   "gloss": "HEN",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "hesheit",
+   "gloss": "HE/SHE/IT",
+   "cat": "people",
+   "rec": true,
+   "similar": [
+    "haveto"
+   ]
+  },
+  {
+   "id": "hide",
+   "gloss": "HIDE",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "girl"
+   ]
+  },
+  {
+   "id": "high",
+   "gloss": "HIGH",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "home",
+   "gloss": "HOME",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "horse",
+   "gloss": "HORSE",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "hot",
+   "gloss": "HOT",
+   "cat": "other",
+   "rec": true,
+   "similar": [
+    "bad"
+   ]
+  },
+  {
+   "id": "hungry",
+   "gloss": "HUNGRY",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "icecream",
+   "gloss": "ICE CREAM",
+   "cat": "food",
+   "rec": true,
+   "similar": [
+    "carrot"
+   ]
+  },
+  {
+   "id": "if",
+   "gloss": "IF",
+   "cat": "questions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "into",
+   "gloss": "INTO",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "jacket",
+   "gloss": "JACKET",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "jeans",
+   "gloss": "JEANS",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "jump",
+   "gloss": "JUMP",
+   "cat": "actions",
+   "rec": true,
+   "similar": [
+    "ride",
+    "stairs"
+   ]
+  },
+  {
+   "id": "kiss",
+   "gloss": "KISS",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "kitty",
+   "gloss": "KITTY",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "lamp",
+   "gloss": "LAMP",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "later",
+   "gloss": "LATER",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "like",
+   "gloss": "LIKE",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "lion",
+   "gloss": "LION",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "lips",
+   "gloss": "LIPS",
+   "cat": "health",
+   "rec": false,
+   "similar": [
+    "mouth",
+    "chin"
+   ]
+  },
+  {
+   "id": "listen",
+   "gloss": "LISTEN",
+   "cat": "actions",
+   "rec": true,
+   "similar": [
+    "bed"
+   ]
+  },
+  {
+   "id": "look",
+   "gloss": "LOOK",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "loud",
+   "gloss": "LOUD",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "mad",
+   "gloss": "MAD",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "make",
+   "gloss": "MAKE",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "man",
+   "gloss": "MAN",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "many",
+   "gloss": "MANY",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "milk",
+   "gloss": "MILK",
+   "cat": "food",
+   "rec": true,
+   "similar": [
+    "car"
+   ]
+  },
+  {
+   "id": "minemy",
+   "gloss": "MINE/MY",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "mitten",
+   "gloss": "MITTEN",
+   "cat": "things",
+   "rec": true,
+   "similar": [
+    "wait"
+   ]
+  },
+  {
+   "id": "mom",
+   "gloss": "MOM",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "moon",
+   "gloss": "MOON",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "morning",
+   "gloss": "MORNING",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "mouse",
+   "gloss": "MOUSE",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "mouth",
+   "gloss": "MOUTH",
+   "cat": "health",
+   "rec": false,
+   "similar": [
+    "lips"
+   ]
+  },
+  {
+   "id": "nap",
+   "gloss": "NAP",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "napkin",
+   "gloss": "NAPKIN",
+   "cat": "things",
+   "rec": true,
+   "similar": [
+    "flower"
+   ]
+  },
+  {
+   "id": "night",
+   "gloss": "NIGHT",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "no",
+   "gloss": "NO",
+   "cat": "greetings",
+   "rec": true,
+   "similar": [
+    "read"
+   ]
+  },
+  {
+   "id": "noisy",
+   "gloss": "NOISY",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "nose",
+   "gloss": "NOSE",
+   "cat": "health",
+   "rec": false,
+   "similar": [
+    "eye",
+    "tooth",
+    "cheek"
+   ]
+  },
+  {
+   "id": "not",
+   "gloss": "NOT",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "tomorrow",
+    "nuts"
+   ]
+  },
+  {
+   "id": "now",
+   "gloss": "NOW",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "nuts",
+   "gloss": "NUTS",
+   "cat": "food",
+   "rec": true,
+   "similar": [
+    "not",
+    "yourself",
+    "aunt"
+   ]
+  },
+  {
+   "id": "old",
+   "gloss": "OLD",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "on",
+   "gloss": "ON",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "open",
+   "gloss": "OPEN",
+   "cat": "actions",
+   "rec": true,
+   "similar": [
+    "will"
+   ]
+  },
+  {
+   "id": "orange",
+   "gloss": "ORANGE",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "outside",
+   "gloss": "OUTSIDE",
+   "cat": "places",
+   "rec": true,
+   "similar": [
+    "go"
+   ]
+  },
+  {
+   "id": "owie",
+   "gloss": "OWIE",
+   "cat": "feelings",
+   "rec": true,
+   "similar": [
+    "green"
+   ]
+  },
+  {
+   "id": "owl",
+   "gloss": "OWL",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "pajamas",
+   "gloss": "PAJAMAS",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "pen",
+   "gloss": "PEN",
+   "cat": "things",
+   "rec": true,
+   "similar": [
+    "pencil"
+   ]
+  },
+  {
+   "id": "pencil",
+   "gloss": "PENCIL",
+   "cat": "things",
+   "rec": false,
+   "similar": [
+    "pen"
+   ]
+  },
+  {
+   "id": "penny",
+   "gloss": "PENNY",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "person",
+   "gloss": "PERSON",
+   "cat": "people",
+   "rec": false,
+   "similar": [
+    "beside",
+    "sad"
+   ]
+  },
+  {
+   "id": "pig",
+   "gloss": "PIG",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "pizza",
+   "gloss": "PIZZA",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "please",
+   "gloss": "PLEASE",
+   "cat": "greetings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "police",
+   "gloss": "POLICE",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "pool",
+   "gloss": "POOL",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "potty",
+   "gloss": "POTTY",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "pretend",
+   "gloss": "PRETEND",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "pretty",
+   "gloss": "PRETTY",
+   "cat": "feelings",
+   "rec": true,
+   "similar": [
+    "sleep"
+   ]
+  },
+  {
+   "id": "puppy",
+   "gloss": "PUPPY",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "puzzle",
+   "gloss": "PUZZLE",
+   "cat": "things",
+   "rec": true,
+   "similar": [
+    "shoe"
+   ]
+  },
+  {
+   "id": "quiet",
+   "gloss": "QUIET",
+   "cat": "feelings",
+   "rec": true,
+   "similar": [
+    "bad"
+   ]
+  },
+  {
+   "id": "radio",
+   "gloss": "RADIO",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "rain",
+   "gloss": "RAIN",
+   "cat": "things",
+   "rec": true,
+   "similar": [
+    "snow",
+    "alligator"
+   ]
+  },
+  {
+   "id": "read",
+   "gloss": "READ",
+   "cat": "actions",
+   "rec": true,
+   "similar": [
+    "no"
+   ]
+  },
+  {
+   "id": "red",
+   "gloss": "RED",
+   "cat": "colors",
+   "rec": false,
+   "similar": [
+    "cry",
+    "thirsty"
+   ]
+  },
+  {
+   "id": "refrigerator",
+   "gloss": "REFRIGERATOR",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ride",
+   "gloss": "RIDE",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "jump",
+    "helicopter"
+   ]
+  },
+  {
+   "id": "room",
+   "gloss": "ROOM",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "sad",
+   "gloss": "SAD",
+   "cat": "feelings",
+   "rec": true,
+   "similar": [
+    "person"
+   ]
+  },
+  {
+   "id": "same",
+   "gloss": "SAME",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "say",
+   "gloss": "SAY",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "chin",
+    "tooth",
+    "glasswindow"
+   ]
+  },
+  {
+   "id": "scissors",
+   "gloss": "SCISSORS",
+   "cat": "things",
+   "rec": true,
+   "similar": [
+    "cut"
+   ]
+  },
+  {
+   "id": "see",
+   "gloss": "SEE",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "shhh",
+   "gloss": "SHHH",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "shirt",
+   "gloss": "SHIRT",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "shoe",
+   "gloss": "SHOE",
+   "cat": "things",
+   "rec": false,
+   "similar": [
+    "puzzle"
+   ]
+  },
+  {
+   "id": "shower",
+   "gloss": "SHOWER",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "sick",
+   "gloss": "SICK",
+   "cat": "feelings",
+   "rec": true,
+   "similar": [
+    "why",
+    "dad"
+   ]
+  },
+  {
+   "id": "sleep",
+   "gloss": "SLEEP",
+   "cat": "actions",
+   "rec": true,
+   "similar": [
+    "wet",
+    "pretty"
+   ]
+  },
+  {
+   "id": "sleepy",
+   "gloss": "SLEEPY",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "smile",
+   "gloss": "SMILE",
+   "cat": "feelings",
+   "rec": true,
+   "similar": [
+    "flower"
+   ]
+  },
+  {
+   "id": "snack",
+   "gloss": "SNACK",
+   "cat": "food",
+   "rec": true,
+   "similar": [
+    "sticky"
+   ]
+  },
+  {
+   "id": "snow",
+   "gloss": "SNOW",
+   "cat": "things",
+   "rec": false,
+   "similar": [
+    "rain"
+   ]
+  },
+  {
+   "id": "stairs",
+   "gloss": "STAIRS",
+   "cat": "places",
+   "rec": true,
+   "similar": [
+    "jump"
+   ]
+  },
+  {
+   "id": "stay",
+   "gloss": "STAY",
+   "cat": "actions",
+   "rec": true,
+   "similar": [
+    "that",
+    "airplane"
+   ]
+  },
+  {
+   "id": "sticky",
+   "gloss": "STICKY",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "snack"
+   ]
+  },
+  {
+   "id": "store",
+   "gloss": "STORE",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "story",
+   "gloss": "STORY",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "stuck",
+   "gloss": "STUCK",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "sun",
+   "gloss": "SUN",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "table",
+   "gloss": "TABLE",
+   "cat": "things",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "talk",
+   "gloss": "TALK",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "taste",
+   "gloss": "TASTE",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "thankyou",
+   "gloss": "THANK YOU",
+   "cat": "greetings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "that",
+   "gloss": "THAT",
+   "cat": "questions",
+   "rec": false,
+   "similar": [
+    "stay"
+   ]
+  },
+  {
+   "id": "there",
+   "gloss": "THERE",
+   "cat": "questions",
+   "rec": true,
+   "similar": [
+    "boat"
+   ]
+  },
+  {
+   "id": "think",
+   "gloss": "THINK",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "thirsty",
+   "gloss": "THIRSTY",
+   "cat": "food",
+   "rec": true,
+   "similar": [
+    "red"
+   ]
+  },
+  {
+   "id": "tiger",
+   "gloss": "TIGER",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "time",
+   "gloss": "TIME",
+   "cat": "time",
+   "rec": true,
+   "similar": [
+    "grass"
+   ]
+  },
+  {
+   "id": "tomorrow",
+   "gloss": "TOMORROW",
+   "cat": "time",
+   "rec": true,
+   "similar": [
+    "not"
+   ]
+  },
+  {
+   "id": "tongue",
+   "gloss": "TONGUE",
+   "cat": "health",
+   "rec": true,
+   "similar": [
+    "duck"
+   ]
+  },
+  {
+   "id": "tooth",
+   "gloss": "TOOTH",
+   "cat": "health",
+   "rec": false,
+   "similar": [
+    "glasswindow",
+    "say",
+    "eye"
+   ]
+  },
+  {
+   "id": "toothbrush",
+   "gloss": "TOOTHBRUSH",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "touch",
+   "gloss": "TOUCH",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "toy",
+   "gloss": "TOY",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "tree",
+   "gloss": "TREE",
+   "cat": "things",
+   "rec": true,
+   "similar": [
+    "blue"
+   ]
+  },
+  {
+   "id": "uncle",
+   "gloss": "UNCLE",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "underwear",
+   "gloss": "UNDERWEAR",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "up",
+   "gloss": "UP",
+   "cat": "other",
+   "rec": true,
+   "similar": [
+    "hear",
+    "black"
+   ]
+  },
+  {
+   "id": "vacuum",
+   "gloss": "VACUUM",
+   "cat": "things",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "wait",
+   "gloss": "WAIT",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "finger",
+    "mitten"
+   ]
+  },
+  {
+   "id": "wake",
+   "gloss": "WAKE",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "awake"
+   ]
+  },
+  {
+   "id": "water",
+   "gloss": "WATER",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "wet",
+   "gloss": "WET",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "sleep"
+   ]
+  },
+  {
+   "id": "weus",
+   "gloss": "WE/US",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "where",
+   "gloss": "WHERE",
+   "cat": "questions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "white",
+   "gloss": "WHITE",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "who",
+   "gloss": "WHO",
+   "cat": "questions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "why",
+   "gloss": "WHY",
+   "cat": "questions",
+   "rec": false,
+   "similar": [
+    "sick"
+   ]
+  },
+  {
+   "id": "will",
+   "gloss": "WILL",
+   "cat": "actions",
+   "rec": true,
+   "similar": [
+    "open"
+   ]
+  },
+  {
+   "id": "wolf",
+   "gloss": "WOLF",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "yellow",
+   "gloss": "YELLOW",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "yes",
+   "gloss": "YES",
+   "cat": "greetings",
+   "rec": true,
+   "similar": [
+    "can"
+   ]
+  },
+  {
+   "id": "yesterday",
+   "gloss": "YESTERDAY",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "yourself",
+   "gloss": "YOURSELF",
+   "cat": "people",
+   "rec": true,
+   "similar": [
+    "nuts"
+   ]
+  },
+  {
+   "id": "yucky",
+   "gloss": "YUCKY",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "zebra",
+   "gloss": "ZEBRA",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "zipper",
+   "gloss": "ZIPPER",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  }
+ ]
+}

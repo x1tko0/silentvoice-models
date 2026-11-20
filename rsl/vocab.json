@@ -1,0 +1,7139 @@
+{
+ "pack": "rsl",
+ "version": 4,
+ "lettersRecognized": true,
+ "source": "Slovo, ai-forever (CC BY-SA 4.0); точки — karinversan/slovo-full-landmarks",
+ "signs": [
+  {
+   "id": "2 часа",
+   "gloss": "2 ЧАСА",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "6 часов",
+   "gloss": "6 ЧАСОВ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "7:45",
+   "gloss": "7:45",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "август",
+   "gloss": "АВГУСТ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "агрессивный",
+   "gloss": "АГРЕССИВНЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "агрессия",
+    "злой",
+    "злобный"
+   ]
+  },
+  {
+   "id": "агрессия",
+   "gloss": "АГРЕССИЯ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "агрессивный"
+   ]
+  },
+  {
+   "id": "адаптивное поведение",
+   "gloss": "АДАПТИВНОЕ ПОВЕДЕНИЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "адаптивность",
+   "gloss": "АДАПТИВНОСТЬ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "адаптивный",
+   "gloss": "АДАПТИВНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "аккуратный",
+   "gloss": "АККУРАТНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "приличный"
+   ]
+  },
+  {
+   "id": "активный",
+   "gloss": "АКТИВНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "акула",
+   "gloss": "АКУЛА",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "аллергия на еду",
+   "gloss": "АЛЛЕРГИЯ НА ЕДУ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "аллигатор",
+   "gloss": "АЛЛИГАТОР",
+   "cat": "animals",
+   "rec": false,
+   "similar": [
+    "крокодил",
+    "бегемот"
+   ]
+  },
+  {
+   "id": "амбициозный",
+   "gloss": "АМБИЦИОЗНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "аниматор",
+   "gloss": "АНИМАТОР",
+   "cat": "people",
+   "rec": false,
+   "similar": [
+    "медведь"
+   ]
+  },
+  {
+   "id": "аппетит",
+   "gloss": "АППЕТИТ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ароматный",
+   "gloss": "АРОМАТНЫЙ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "бабочка",
+   "gloss": "БАБОЧКА",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "банкет",
+   "gloss": "БАНКЕТ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "башенные часы",
+   "gloss": "БАШЕННЫЕ ЧАСЫ",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "бегемот",
+   "gloss": "БЕГЕМОТ",
+   "cat": "animals",
+   "rec": false,
+   "similar": [
+    "аллигатор"
+   ]
+  },
+  {
+   "id": "бежевый",
+   "gloss": "БЕЖЕВЫЙ",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "без",
+   "gloss": "БЕЗ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "кроме"
+   ]
+  },
+  {
+   "id": "безопасный",
+   "gloss": "БЕЗОПАСНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "безразличие",
+   "gloss": "БЕЗРАЗЛИЧИЕ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "безумно",
+   "gloss": "БЕЗУМНО",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "белка",
+   "gloss": "БЕЛКА",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "белый",
+   "gloss": "БЕЛЫЙ",
+   "cat": "colors",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "беспокоиться",
+   "gloss": "БЕСПОКОИТЬСЯ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "беспокойный",
+   "gloss": "БЕСПОКОЙНЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "беспокойство",
+   "gloss": "БЕСПОКОЙСТВО",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "суматоха",
+    "обеспокоен"
+   ]
+  },
+  {
+   "id": "беспокоящий",
+   "gloss": "БЕСПОКОЯЩИЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "билет",
+   "gloss": "БИЛЕТ",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "благоговение",
+   "gloss": "БЛАГОГОВЕНИЕ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "благодарность",
+   "gloss": "БЛАГОДАРНОСТЬ",
+   "cat": "greetings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "благополучие",
+   "gloss": "БЛАГОПОЛУЧИЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "бледный",
+   "gloss": "БЛЕДНЫЙ",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "близко",
+   "gloss": "БЛИЗКО",
+   "cat": "places",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "болит",
+   "gloss": "БОЛИТ",
+   "cat": "health",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "боль",
+   "gloss": "БОЛЬ",
+   "cat": "health",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "больше",
+   "gloss": "БОЛЬШЕ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "большой",
+   "gloss": "БОЛЬШОЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Борода",
+   "gloss": "БОРОДА",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "боюсь",
+   "gloss": "БОЮСЬ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "трусливо",
+    "трус"
+   ]
+  },
+  {
+   "id": "бояться",
+   "gloss": "БОЯТЬСЯ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "брат",
+   "gloss": "БРАТ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "брюзжать",
+   "gloss": "БРЮЗЖАТЬ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "буду",
+   "gloss": "БУДУ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "будущее",
+   "gloss": "БУДУЩЕЕ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "бумага",
+   "gloss": "БУМАГА",
+   "cat": "things",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "бутылка",
+   "gloss": "БУТЫЛКА",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "бы",
+   "gloss": "БЫ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "бывший",
+   "gloss": "БЫВШИЙ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "бык",
+   "gloss": "БЫК",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "быстро",
+   "gloss": "БЫСТРО",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "быстрый",
+   "gloss": "БЫСТРЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "немедленно"
+   ]
+  },
+  {
+   "id": "быть",
+   "gloss": "БЫТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": [
+    "охотно"
+   ]
+  },
+  {
+   "id": "быть потрясенным",
+   "gloss": "БЫТЬ ПОТРЯСЕННЫМ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "в восемь пятнадцать",
+   "gloss": "В ВОСЕМЬ ПЯТНАДЦАТЬ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "в настоящее время",
+   "gloss": "В НАСТОЯЩЕЕ ВРЕМЯ",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "сегодня"
+   ]
+  },
+  {
+   "id": "в прошлом году",
+   "gloss": "В ПРОШЛОМ ГОДУ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "в спешке",
+   "gloss": "В СПЕШКЕ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "в то время как",
+   "gloss": "В ТО ВРЕМЯ КАК",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "в этом году",
+   "gloss": "В ЭТОМ ГОДУ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "важный",
+   "gloss": "ВАЖНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "вам",
+   "gloss": "ВАМ",
+   "cat": "people",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "вас",
+   "gloss": "ВАС",
+   "cat": "people",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "ваш",
+   "gloss": "ВАШ",
+   "cat": "people",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "вверх",
+   "gloss": "ВВЕРХ",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "вдохновение",
+   "gloss": "ВДОХНОВЕНИЕ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "восхищаться"
+   ]
+  },
+  {
+   "id": "вдохновлять",
+   "gloss": "ВДОХНОВЛЯТЬ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "вежливый",
+   "gloss": "ВЕЖЛИВЫЙ",
+   "cat": "greetings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "везде",
+   "gloss": "ВЕЗДЕ",
+   "cat": "places",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "великий",
+   "gloss": "ВЕЛИКИЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "верблюд",
+   "gloss": "ВЕРБЛЮД",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "верить",
+   "gloss": "ВЕРИТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "уверенный"
+   ]
+  },
+  {
+   "id": "верный",
+   "gloss": "ВЕРНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "вероятно",
+   "gloss": "ВЕРОЯТНО",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "верх",
+   "gloss": "ВЕРХ",
+   "cat": "places",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "веселиться",
+   "gloss": "ВЕСЕЛИТЬСЯ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "веселый",
+   "gloss": "ВЕСЕЛЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "весёлый"
+   ]
+  },
+  {
+   "id": "весёлый",
+   "gloss": "ВЕСЁЛЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "веселый"
+   ]
+  },
+  {
+   "id": "весенняя",
+   "gloss": "ВЕСЕННЯЯ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "весна",
+   "gloss": "ВЕСНА",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "весь",
+   "gloss": "ВЕСЬ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "вечер",
+   "gloss": "ВЕЧЕР",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "вечность",
+   "gloss": "ВЕЧНОСТЬ",
+   "cat": "time",
+   "rec": true,
+   "similar": [
+    "вечный"
+   ]
+  },
+  {
+   "id": "вечный",
+   "gloss": "ВЕЧНЫЙ",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "вечность"
+   ]
+  },
+  {
+   "id": "вещь",
+   "gloss": "ВЕЩЬ",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "вздрагивать",
+   "gloss": "ВЗДРАГИВАТЬ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "взять",
+   "gloss": "ВЗЯТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "видеть",
+   "gloss": "ВИДЕТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "вилка",
+   "gloss": "ВИЛКА",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "вилять",
+   "gloss": "ВИЛЯТЬ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "вина",
+   "gloss": "ВИНА",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Витамин",
+   "gloss": "ВИТАМИН",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "вкус",
+   "gloss": "ВКУС",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "вкусный",
+   "gloss": "ВКУСНЫЙ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "влюбиться",
+   "gloss": "ВЛЮБИТЬСЯ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": [
+    "влюбленный"
+   ]
+  },
+  {
+   "id": "влюбленный",
+   "gloss": "ВЛЮБЛЕННЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "влюбиться"
+   ]
+  },
+  {
+   "id": "вниз",
+   "gloss": "ВНИЗ",
+   "cat": "places",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "внизу",
+   "gloss": "ВНИЗУ",
+   "cat": "places",
+   "rec": false,
+   "similar": [
+    "писать"
+   ]
+  },
+  {
+   "id": "внутреннее",
+   "gloss": "ВНУТРЕННЕЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "вода",
+   "gloss": "ВОДА",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "водоплавающее",
+   "gloss": "ВОДОПЛАВАЮЩЕЕ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "возбуждать",
+   "gloss": "ВОЗБУЖДАТЬ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "возбуждение",
+   "gloss": "ВОЗБУЖДЕНИЕ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "возбужденный",
+   "gloss": "ВОЗБУЖДЕННЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "воздух",
+   "gloss": "ВОЗДУХ",
+   "cat": "things",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "возможно",
+   "gloss": "ВОЗМОЖНО",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "возможный",
+   "gloss": "ВОЗМОЖНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "возрадоваться",
+   "gloss": "ВОЗРАДОВАТЬСЯ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "вой",
+   "gloss": "ВОЙ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "вол",
+   "gloss": "ВОЛ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "волк",
+   "gloss": "ВОЛК",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "вопрос",
+   "gloss": "ВОПРОС",
+   "cat": "questions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "воротник",
+   "gloss": "ВОРОТНИК",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "восемнадцать",
+   "gloss": "ВОСЕМНАДЦАТЬ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "восемь",
+   "gloss": "ВОСЕМЬ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "восемьдесят",
+   "gloss": "ВОСЕМЬДЕСЯТ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "восемьсот",
+   "gloss": "ВОСЕМЬСОТ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "воскресенье",
+   "gloss": "ВОСКРЕСЕНЬЕ",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "восток",
+   "gloss": "ВОСТОК",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "восхищаться",
+   "gloss": "ВОСХИЩАТЬСЯ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "вдохновение"
+   ]
+  },
+  {
+   "id": "восхищение",
+   "gloss": "ВОСХИЩЕНИЕ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "восход солнца",
+   "gloss": "ВОСХОД СОЛНЦА",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "восьмой",
+   "gloss": "ВОСЬМОЙ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "враждебный",
+   "gloss": "ВРАЖДЕБНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "вред",
+   "gloss": "ВРЕД",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "вредный; озорной",
+   "gloss": "ВРЕДНЫЙ / ОЗОРНОЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "временный",
+   "gloss": "ВРЕМЕННЫЙ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "время",
+   "gloss": "ВРЕМЯ",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "время 11 часов",
+   "gloss": "ВРЕМЯ 11 ЧАСОВ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "время для измерений",
+   "gloss": "ВРЕМЯ ДЛЯ ИЗМЕРЕНИЙ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "время от 0 ночи до 12 дня",
+   "gloss": "ВРЕМЯ ОТ 0 НОЧИ ДО 12 ДНЯ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "время по Гринвичу",
+   "gloss": "ВРЕМЯ ПО ГРИНВИЧУ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "все",
+   "gloss": "ВСЕ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "всё",
+   "gloss": "ВСЁ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "всегда",
+   "gloss": "ВСЕГДА",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "вскружить",
+   "gloss": "ВСКРУЖИТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "вспомнить",
+   "gloss": "ВСПОМНИТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "встретить",
+   "gloss": "ВСТРЕТИТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "вторник",
+   "gloss": "ВТОРНИК",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "второй",
+   "gloss": "ВТОРОЙ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "вчера",
+   "gloss": "ВЧЕРА",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "вы",
+   "gloss": "ВЫ",
+   "cat": "people",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "Выигрыш",
+   "gloss": "ВЫИГРЫШ",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "найти"
+   ]
+  },
+  {
+   "id": "Выручить",
+   "gloss": "ВЫРУЧИТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "высокий",
+   "gloss": "ВЫСОКИЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "высокомерный",
+   "gloss": "ВЫСОКОМЕРНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "выходные",
+   "gloss": "ВЫХОДНЫЕ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "гавканье",
+   "gloss": "ГАВКАНЬЕ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "газета",
+   "gloss": "ГАЗЕТА",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "гений",
+   "gloss": "ГЕНИЙ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "глаз",
+   "gloss": "ГЛАЗ",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "глотать",
+   "gloss": "ГЛОТАТЬ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "глотать жадно",
+   "gloss": "ГЛОТАТЬ ЖАДНО",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "глупый",
+   "gloss": "ГЛУПЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "гнев",
+   "gloss": "ГНЕВ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "гнездо",
+   "gloss": "ГНЕЗДО",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "говорить",
+   "gloss": "ГОВОРИТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "год",
+   "gloss": "ГОД",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "голова",
+   "gloss": "ГОЛОВА",
+   "cat": "health",
+   "rec": false,
+   "similar": [
+    "талант"
+   ]
+  },
+  {
+   "id": "голод",
+   "gloss": "ГОЛОД",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "голодный",
+   "gloss": "ГОЛОДНЫЙ",
+   "cat": "food",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "голос",
+   "gloss": "ГОЛОС",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "гордость",
+   "gloss": "ГОРДОСТЬ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "гордый"
+   ]
+  },
+  {
+   "id": "гордый",
+   "gloss": "ГОРДЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "гордость"
+   ]
+  },
+  {
+   "id": "горе",
+   "gloss": "ГОРЕ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "горевать",
+   "gloss": "ГОРЕВАТЬ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "город",
+   "gloss": "ГОРОД",
+   "cat": "places",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "горький",
+   "gloss": "ГОРЬКИЙ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "горюющий",
+   "gloss": "ГОРЮЮЩИЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "готовый",
+   "gloss": "ГОТОВЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "грубый",
+   "gloss": "ГРУБЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "грустный",
+   "gloss": "ГРУСТНЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "разочарованный"
+   ]
+  },
+  {
+   "id": "грязный",
+   "gloss": "ГРЯЗНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "да",
+   "gloss": "ДА",
+   "cat": "greetings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Даже",
+   "gloss": "ДАЖЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "дать",
+   "gloss": "ДАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "два",
+   "gloss": "ДВА",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "двадцать",
+   "gloss": "ДВАДЦАТЬ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "дважды",
+   "gloss": "ДВАЖДЫ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "две недели",
+   "gloss": "ДВЕ НЕДЕЛИ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "две тысячи",
+   "gloss": "ДВЕ ТЫСЯЧИ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "двенадцатый",
+   "gloss": "ДВЕНАДЦАТЫЙ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "двенадцать",
+   "gloss": "ДВЕНАДЦАТЬ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "двести",
+   "gloss": "ДВЕСТИ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "девочка",
+   "gloss": "ДЕВОЧКА",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "девяносто",
+   "gloss": "ДЕВЯНОСТО",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "девятнадцать",
+   "gloss": "ДЕВЯТНАДЦАТЬ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "девятый",
+   "gloss": "ДЕВЯТЫЙ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "девять",
+   "gloss": "ДЕВЯТЬ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "девятьсот",
+   "gloss": "ДЕВЯТЬСОТ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "декабрь",
+   "gloss": "ДЕКАБРЬ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "делать",
+   "gloss": "ДЕЛАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "делать выводы",
+   "gloss": "ДЕЛАТЬ ВЫВОДЫ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "делать мелкий глоток",
+   "gloss": "ДЕЛАТЬ МЕЛКИЙ ГЛОТОК",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "дельфин",
+   "gloss": "ДЕЛЬФИН",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "день",
+   "gloss": "ДЕНЬ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "день и ночь",
+   "gloss": "ДЕНЬ И НОЧЬ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "деньги",
+   "gloss": "ДЕНЬГИ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "держать",
+   "gloss": "ДЕРЖАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "десятый",
+   "gloss": "ДЕСЯТЫЙ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "десять",
+   "gloss": "ДЕСЯТЬ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "детский",
+   "gloss": "ДЕТСКИЙ",
+   "cat": "people",
+   "rec": false,
+   "similar": [
+    "ребёнок"
+   ]
+  },
+  {
+   "id": "дешёвый",
+   "gloss": "ДЕШЁВЫЙ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "диета",
+   "gloss": "ДИЕТА",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "дикое животное",
+   "gloss": "ДИКОЕ ЖИВОТНОЕ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "динозавр",
+   "gloss": "ДИНОЗАВР",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "дистресс",
+   "gloss": "ДИСТРЕСС",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "страдать"
+   ]
+  },
+  {
+   "id": "длинный",
+   "gloss": "ДЛИННЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "днем",
+   "gloss": "ДНЕМ",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "нежный, мягкий"
+   ]
+  },
+  {
+   "id": "до",
+   "gloss": "ДО",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "Добро пожаловать!",
+   "gloss": "ДОБРО ПОЖАЛОВАТЬ",
+   "cat": "greetings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "добропорядочность",
+   "gloss": "ДОБРОПОРЯДОЧНОСТЬ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "доброта",
+   "gloss": "ДОБРОТА",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "добрый",
+   "gloss": "ДОБРЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "доверять",
+   "gloss": "ДОВЕРЯТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "доволен",
+   "gloss": "ДОВОЛЕН",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "довольно",
+   "gloss": "ДОВОЛЬНО",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "довольный"
+   ]
+  },
+  {
+   "id": "довольный",
+   "gloss": "ДОВОЛЬНЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "довольно"
+   ]
+  },
+  {
+   "id": "довольство",
+   "gloss": "ДОВОЛЬСТВО",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "должен",
+   "gloss": "ДОЛЖЕН",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "дом",
+   "gloss": "ДОМ",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "домашнее животное",
+   "gloss": "ДОМАШНЕЕ ЖИВОТНОЕ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "доминантный",
+   "gloss": "ДОМИНАНТНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "доминирующий",
+   "gloss": "ДОМИНИРУЮЩИЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "домогаться",
+   "gloss": "ДОМОГАТЬСЯ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "дорога",
+   "gloss": "ДОРОГА",
+   "cat": "places",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "дорогой",
+   "gloss": "ДОРОГОЙ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "доставлять удовольствие",
+   "gloss": "ДОСТАВЛЯТЬ УДОВОЛЬСТВИЕ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "достаточно",
+   "gloss": "ДОСТАТОЧНО",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "дочь",
+   "gloss": "ДОЧЬ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "дрожать",
+   "gloss": "ДРОЖАТЬ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "друг",
+   "gloss": "ДРУГ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "другой",
+   "gloss": "ДРУГОЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "различный"
+   ]
+  },
+  {
+   "id": "дружелюбный",
+   "gloss": "ДРУЖЕЛЮБНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "думать",
+   "gloss": "ДУМАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "дятел",
+   "gloss": "ДЯТЕЛ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "еда",
+   "gloss": "ЕДА",
+   "cat": "food",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "её",
+   "gloss": "ЕЁ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ежедневный",
+   "gloss": "ЕЖЕДНЕВНЫЙ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ежик",
+   "gloss": "ЕЖИК",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ей",
+   "gloss": "ЕЙ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "если",
+   "gloss": "ЕСЛИ",
+   "cat": "questions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "есть",
+   "gloss": "ЕСТЬ",
+   "cat": "food",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "ехать",
+   "gloss": "ЕХАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "еще",
+   "gloss": "ЕЩЕ",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "еще нет",
+   "gloss": "ЕЩЕ НЕТ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "жадно есть",
+   "gloss": "ЖАДНО ЕСТЬ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "жадность",
+   "gloss": "ЖАДНОСТЬ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "жадный",
+   "gloss": "ЖАДНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "жажда",
+   "gloss": "ЖАЖДА",
+   "cat": "food",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "жаждущий",
+   "gloss": "ЖАЖДУЩИЙ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "жалость",
+   "gloss": "ЖАЛОСТЬ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "милосердный"
+   ]
+  },
+  {
+   "id": "Жарить",
+   "gloss": "ЖАРИТЬ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "жаркий",
+   "gloss": "ЖАРКИЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "ждать",
+   "gloss": "ЖДАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "жевать",
+   "gloss": "ЖЕВАТЬ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "желание",
+   "gloss": "ЖЕЛАНИЕ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "сожаление"
+   ]
+  },
+  {
+   "id": "желать",
+   "gloss": "ЖЕЛАТЬ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "сожаление"
+   ]
+  },
+  {
+   "id": "желтый",
+   "gloss": "ЖЕЛТЫЙ",
+   "cat": "colors",
+   "rec": false,
+   "similar": [
+    "жёлтый"
+   ]
+  },
+  {
+   "id": "жёлтый",
+   "gloss": "ЖЁЛТЫЙ",
+   "cat": "colors",
+   "rec": false,
+   "similar": [
+    "желтый"
+   ]
+  },
+  {
+   "id": "жена",
+   "gloss": "ЖЕНА",
+   "cat": "people",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "женат",
+   "gloss": "ЖЕНАТ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "женский туалет",
+   "gloss": "ЖЕНСКИЙ ТУАЛЕТ",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "женщина",
+   "gloss": "ЖЕНЩИНА",
+   "cat": "people",
+   "rec": false,
+   "similar": [
+    "мать"
+   ]
+  },
+  {
+   "id": "жёсткий",
+   "gloss": "ЖЁСТКИЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "жестокий",
+   "gloss": "ЖЕСТОКИЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "животное",
+   "gloss": "ЖИВОТНОЕ",
+   "cat": "animals",
+   "rec": false,
+   "similar": [
+    "обезьяна"
+   ]
+  },
+  {
+   "id": "жизнь",
+   "gloss": "ЖИЗНЬ",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "жираф",
+   "gloss": "ЖИРАФ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "жить",
+   "gloss": "ЖИТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "жуткий",
+   "gloss": "ЖУТКИЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "забота",
+   "gloss": "ЗАБОТА",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Забрать",
+   "gloss": "ЗАБРАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "забыть",
+   "gloss": "ЗАБЫТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "заварочный чайник",
+   "gloss": "ЗАВАРОЧНЫЙ ЧАЙНИК",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "зависть",
+   "gloss": "ЗАВИСТЬ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "завтра",
+   "gloss": "ЗАВТРА",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "задерживать",
+   "gloss": "ЗАДЕРЖИВАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "заказывать",
+   "gloss": "ЗАКАЗЫВАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "закончить",
+   "gloss": "ЗАКОНЧИТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "закрыть",
+   "gloss": "ЗАКРЫТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "закуска перед едой",
+   "gloss": "ЗАКУСКА ПЕРЕД ЕДОЙ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "замужем",
+   "gloss": "ЗАМУЖЕМ",
+   "cat": "people",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "занятый",
+   "gloss": "ЗАНЯТЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "резервирование; бронирование"
+   ]
+  },
+  {
+   "id": "запад",
+   "gloss": "ЗАПАД",
+   "cat": "places",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "запасливый",
+   "gloss": "ЗАПАСЛИВЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "запоздалый",
+   "gloss": "ЗАПОЗДАЛЫЙ",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "поздно"
+   ]
+  },
+  {
+   "id": "застенчивый",
+   "gloss": "ЗАСТЕНЧИВЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "затем; потом",
+   "gloss": "ЗАТЕМ / ПОТОМ",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "потом"
+   ]
+  },
+  {
+   "id": "затягивать",
+   "gloss": "ЗАТЯГИВАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "продление",
+    "продлевать"
+   ]
+  },
+  {
+   "id": "заяц",
+   "gloss": "ЗАЯЦ",
+   "cat": "animals",
+   "rec": false,
+   "similar": [
+    "кролик"
+   ]
+  },
+  {
+   "id": "зверь",
+   "gloss": "ЗВЕРЬ",
+   "cat": "animals",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "звук",
+   "gloss": "ЗВУК",
+   "cat": "things",
+   "rec": true,
+   "similar": [
+    "шум"
+   ]
+  },
+  {
+   "id": "здесь",
+   "gloss": "ЗДЕСЬ",
+   "cat": "places",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "зелёный",
+   "gloss": "ЗЕЛЁНЫЙ",
+   "cat": "colors",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "зима",
+   "gloss": "ЗИМА",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "зло",
+   "gloss": "ЗЛО",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "агрессивный"
+   ]
+  },
+  {
+   "id": "злобный",
+   "gloss": "ЗЛОБНЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "агрессивный"
+   ]
+  },
+  {
+   "id": "злой",
+   "gloss": "ЗЛОЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "агрессивный"
+   ]
+  },
+  {
+   "id": "злость",
+   "gloss": "ЗЛОСТЬ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "змея",
+   "gloss": "ЗМЕЯ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "знать",
+   "gloss": "ЗНАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "значит",
+   "gloss": "ЗНАЧИТ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "значить"
+   ]
+  },
+  {
+   "id": "значить",
+   "gloss": "ЗНАЧИТЬ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "значит"
+   ]
+  },
+  {
+   "id": "Золото",
+   "gloss": "ЗОЛОТО",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "золотой",
+   "gloss": "ЗОЛОТОЙ",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "зоопарк",
+   "gloss": "ЗООПАРК",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "зрелищный",
+   "gloss": "ЗРЕЛИЩНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "зубы",
+   "gloss": "ЗУБЫ",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "играть",
+   "gloss": "ИГРАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "идти",
+   "gloss": "ИДТИ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "из-за",
+   "gloss": "ИЗ-ЗА",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "известный",
+   "gloss": "ИЗВЕСТНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "изменить",
+   "gloss": "ИЗМЕНИТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "изможденный",
+   "gloss": "ИЗМОЖДЕННЫЙ",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "изношенный",
+   "gloss": "ИЗНОШЕННЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "изучить",
+   "gloss": "ИЗУЧИТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "или",
+   "gloss": "ИЛИ",
+   "cat": "questions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "им",
+   "gloss": "ИМ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "иметь",
+   "gloss": "ИМЕТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "импульс",
+   "gloss": "ИМПУЛЬС",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "имя",
+   "gloss": "ИМЯ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "иначе",
+   "gloss": "ИНАЧЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "инициатива",
+   "gloss": "ИНИЦИАТИВА",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "иногда",
+   "gloss": "ИНОГДА",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "иностранный",
+   "gloss": "ИНОСТРАННЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "интеллектуальный",
+   "gloss": "ИНТЕЛЛЕКТУАЛЬНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "образованный"
+   ]
+  },
+  {
+   "id": "интересный",
+   "gloss": "ИНТЕРЕСНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "искать",
+   "gloss": "ИСКАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "искренний",
+   "gloss": "ИСКРЕННИЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "использовать",
+   "gloss": "ИСПОЛЬЗОВАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "испорченный",
+   "gloss": "ИСПОРЧЕННЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "испуг",
+   "gloss": "ИСПУГ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "испуганный",
+   "gloss": "ИСПУГАННЫЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "испытывать",
+   "gloss": "ИСПЫТЫВАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "истерик",
+   "gloss": "ИСТЕРИК",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "их",
+   "gloss": "ИХ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "календарь",
+   "gloss": "КАЛЕНДАРЬ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "канун",
+   "gloss": "КАНУН",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "карандаш",
+   "gloss": "КАРАНДАШ",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "картина",
+   "gloss": "КАРТИНА",
+   "cat": "things",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "кафе",
+   "gloss": "КАФЕ",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "кафетерий",
+   "gloss": "КАФЕТЕРИЙ",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "клевать",
+   "gloss": "КЛЕВАТЬ",
+   "cat": "animals",
+   "rec": false,
+   "similar": [
+    "курица"
+   ]
+  },
+  {
+   "id": "клетка",
+   "gloss": "КЛЕТКА",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "клюв",
+   "gloss": "КЛЮВ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ключ",
+   "gloss": "КЛЮЧ",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "книга",
+   "gloss": "КНИГА",
+   "cat": "things",
+   "rec": false,
+   "similar": [
+    "направление"
+   ]
+  },
+  {
+   "id": "когда",
+   "gloss": "КОГДА",
+   "cat": "questions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "коготь",
+   "gloss": "КОГОТЬ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "коза",
+   "gloss": "КОЗА",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "козел",
+   "gloss": "КОЗЕЛ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "комар",
+   "gloss": "КОМАР",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "комната",
+   "gloss": "КОМНАТА",
+   "cat": "places",
+   "rec": true,
+   "similar": [
+    "кусок"
+   ]
+  },
+  {
+   "id": "конечно",
+   "gloss": "КОНЕЧНО",
+   "cat": "greetings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "копыто",
+   "gloss": "КОПЫТО",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "коричневый",
+   "gloss": "КОРИЧНЕВЫЙ",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "корм для домашних животных",
+   "gloss": "КОРМ ДЛЯ ДОМАШНИХ ЖИВОТНЫХ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "кормить",
+   "gloss": "КОРМИТЬ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "корова",
+   "gloss": "КОРОВА",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Корона",
+   "gloss": "КОРОНА",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "короткий",
+   "gloss": "КОРОТКИЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "краткий"
+   ]
+  },
+  {
+   "id": "который",
+   "gloss": "КОТОРЫЙ",
+   "cat": "questions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "кошка",
+   "gloss": "КОШКА",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "красивый",
+   "gloss": "КРАСИВЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "красноватый",
+   "gloss": "КРАСНОВАТЫЙ",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "красный",
+   "gloss": "КРАСНЫЙ",
+   "cat": "colors",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "краткий",
+   "gloss": "КРАТКИЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": [
+    "короткий"
+   ]
+  },
+  {
+   "id": "креветка",
+   "gloss": "КРЕВЕТКА",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Крест",
+   "gloss": "КРЕСТ",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "крокодил",
+   "gloss": "КРОКОДИЛ",
+   "cat": "animals",
+   "rec": false,
+   "similar": [
+    "аллигатор"
+   ]
+  },
+  {
+   "id": "кролик",
+   "gloss": "КРОЛИК",
+   "cat": "animals",
+   "rec": false,
+   "similar": [
+    "заяц"
+   ]
+  },
+  {
+   "id": "кроме",
+   "gloss": "КРОМЕ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "без"
+   ]
+  },
+  {
+   "id": "кротость",
+   "gloss": "КРОТОСТЬ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "кружка",
+   "gloss": "КРУЖКА",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "крыло",
+   "gloss": "КРЫЛО",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "крыса",
+   "gloss": "КРЫСА",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "кто?",
+   "gloss": "КТО",
+   "cat": "questions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "кубок",
+   "gloss": "КУБОК",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "кувшин",
+   "gloss": "КУВШИН",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "купить",
+   "gloss": "КУПИТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "курица",
+   "gloss": "КУРИЦА",
+   "cat": "animals",
+   "rec": true,
+   "similar": [
+    "клевать"
+   ]
+  },
+  {
+   "id": "кусать",
+   "gloss": "КУСАТЬ",
+   "cat": "food",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "кусок",
+   "gloss": "КУСОК",
+   "cat": "food",
+   "rec": false,
+   "similar": [
+    "комната"
+   ]
+  },
+  {
+   "id": "кусок; тонкими слоями",
+   "gloss": "КУСОК / ТОНКИМИ СЛОЯМИ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ланч",
+   "gloss": "ЛАНЧ",
+   "cat": "food",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "лебедь",
+   "gloss": "ЛЕБЕДЬ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "лев",
+   "gloss": "ЛЕВ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "левый",
+   "gloss": "ЛЕВЫЙ",
+   "cat": "places",
+   "rec": false,
+   "similar": [
+    "правый"
+   ]
+  },
+  {
+   "id": "легкий",
+   "gloss": "ЛЕГКИЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "лежать",
+   "gloss": "ЛЕЖАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ленивый",
+   "gloss": "ЛЕНИВЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ленность",
+   "gloss": "ЛЕННОСТЬ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "лето",
+   "gloss": "ЛЕТО",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "летучая мышь",
+   "gloss": "ЛЕТУЧАЯ МЫШЬ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "лечь",
+   "gloss": "ЛЕЧЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "лиса",
+   "gloss": "ЛИСА",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "лить",
+   "gloss": "ЛИТЬ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "лицемерный",
+   "gloss": "ЛИЦЕМЕРНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Лицо",
+   "gloss": "ЛИЦО",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "личные качества",
+   "gloss": "ЛИЧНЫЕ КАЧЕСТВА",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "логичный",
+   "gloss": "ЛОГИЧНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Лопата",
+   "gloss": "ЛОПАТА",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "лось",
+   "gloss": "ЛОСЬ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "лошадь",
+   "gloss": "ЛОШАДЬ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "лучше",
+   "gloss": "ЛУЧШЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "лучший",
+   "gloss": "ЛУЧШИЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "любить",
+   "gloss": "ЛЮБИТЬ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "любовный",
+   "gloss": "ЛЮБОВНЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "любовь"
+   ]
+  },
+  {
+   "id": "любовь",
+   "gloss": "ЛЮБОВЬ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "любовный"
+   ]
+  },
+  {
+   "id": "любопытный",
+   "gloss": "ЛЮБОПЫТНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "люди",
+   "gloss": "ЛЮДИ",
+   "cat": "people",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "лягушка",
+   "gloss": "ЛЯГУШКА",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "магазин",
+   "gloss": "МАГАЗИН",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "маленький",
+   "gloss": "МАЛЕНЬКИЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "мальчик",
+   "gloss": "МАЛЬЧИК",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "мать",
+   "gloss": "МАТЬ",
+   "cat": "people",
+   "rec": true,
+   "similar": [
+    "женщина"
+   ]
+  },
+  {
+   "id": "мгновение",
+   "gloss": "МГНОВЕНИЕ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "медведь",
+   "gloss": "МЕДВЕДЬ",
+   "cat": "animals",
+   "rec": false,
+   "similar": [
+    "аниматор"
+   ]
+  },
+  {
+   "id": "медленный",
+   "gloss": "МЕДЛЕННЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "медуза",
+   "gloss": "МЕДУЗА",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "между",
+   "gloss": "МЕЖДУ",
+   "cat": "places",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "между тем",
+   "gloss": "МЕЖДУ ТЕМ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "меня",
+   "gloss": "МЕНЯ",
+   "cat": "people",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "мертвый",
+   "gloss": "МЕРТВЫЙ",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "место",
+   "gloss": "МЕСТО",
+   "cat": "places",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "место для пикника",
+   "gloss": "МЕСТО ДЛЯ ПИКНИКА",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "месяц",
+   "gloss": "МЕСЯЦ",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "миграция",
+   "gloss": "МИГРАЦИЯ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "миленький",
+   "gloss": "МИЛЕНЬКИЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "миллион",
+   "gloss": "МИЛЛИОН",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "милосердный",
+   "gloss": "МИЛОСЕРДНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "жалость"
+   ]
+  },
+  {
+   "id": "милый",
+   "gloss": "МИЛЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "минимум",
+   "gloss": "МИНИМУМ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "минута",
+   "gloss": "МИНУТА",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "мир",
+   "gloss": "МИР",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "мне",
+   "gloss": "МНЕ",
+   "cat": "people",
+   "rec": false,
+   "similar": [
+    "я"
+   ]
+  },
+  {
+   "id": "много",
+   "gloss": "МНОГО",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "модный",
+   "gloss": "МОДНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "мой",
+   "gloss": "МОЙ",
+   "cat": "people",
+   "rec": false,
+   "similar": [
+    "наш"
+   ]
+  },
+  {
+   "id": "молодой",
+   "gloss": "МОЛОДОЙ",
+   "cat": "people",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "мотивация",
+   "gloss": "МОТИВАЦИЯ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "мотивировать",
+    "мыть"
+   ]
+  },
+  {
+   "id": "мотивировать",
+   "gloss": "МОТИВИРОВАТЬ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "мотивация"
+   ]
+  },
+  {
+   "id": "мочь",
+   "gloss": "МОЧЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "мудрый",
+   "gloss": "МУДРЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "муж",
+   "gloss": "МУЖ",
+   "cat": "people",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "мужественность",
+   "gloss": "МУЖЕСТВЕННОСТЬ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "смелость",
+    "отважиться"
+   ]
+  },
+  {
+   "id": "мужской туалет",
+   "gloss": "МУЖСКОЙ ТУАЛЕТ",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "мужчина",
+   "gloss": "МУЖЧИНА",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "мурашки",
+   "gloss": "МУРАШКИ",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "мы",
+   "gloss": "МЫ",
+   "cat": "people",
+   "rec": false,
+   "similar": [
+    "нас"
+   ]
+  },
+  {
+   "id": "мыть",
+   "gloss": "МЫТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "мотивация"
+   ]
+  },
+  {
+   "id": "мышь",
+   "gloss": "МЫШЬ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "мятежный",
+   "gloss": "МЯТЕЖНЫЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "наблюдательность",
+   "gloss": "НАБЛЮДАТЕЛЬНОСТЬ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "наверху",
+   "gloss": "НАВЕРХУ",
+   "cat": "places",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "навсегда",
+   "gloss": "НАВСЕГДА",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "наглость",
+   "gloss": "НАГЛОСТЬ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "над",
+   "gloss": "НАД",
+   "cat": "places",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "надежда",
+   "gloss": "НАДЕЖДА",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "надеяться",
+   "gloss": "НАДЕЯТЬСЯ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "надоело",
+   "gloss": "НАДОЕЛО",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "назад",
+   "gloss": "НАЗАД",
+   "cat": "places",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "назначенное время",
+   "gloss": "НАЗНАЧЕННОЕ ВРЕМЯ",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "по часам"
+   ]
+  },
+  {
+   "id": "наивный",
+   "gloss": "НАИВНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "найти",
+   "gloss": "НАЙТИ",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "Выигрыш"
+   ]
+  },
+  {
+   "id": "наконец",
+   "gloss": "НАКОНЕЦ",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "наконец-то",
+   "gloss": "НАКОНЕЦ-ТО",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "накрывать на стол",
+   "gloss": "НАКРЫВАТЬ НА СТОЛ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "налог",
+   "gloss": "НАЛОГ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "нам",
+   "gloss": "НАМ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "направление",
+   "gloss": "НАПРАВЛЕНИЕ",
+   "cat": "places",
+   "rec": false,
+   "similar": [
+    "книга"
+   ]
+  },
+  {
+   "id": "напряжение",
+   "gloss": "НАПРЯЖЕНИЕ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "напуганный",
+   "gloss": "НАПУГАННЫЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "народ",
+   "gloss": "НАРОД",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "наружу",
+   "gloss": "НАРУЖУ",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "нас",
+   "gloss": "НАС",
+   "cat": "people",
+   "rec": false,
+   "similar": [
+    "мы"
+   ]
+  },
+  {
+   "id": "населять",
+   "gloss": "НАСЕЛЯТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "наслаждайся",
+   "gloss": "НАСЛАЖДАЙСЯ",
+   "cat": "greetings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "нахальный",
+   "gloss": "НАХАЛЬНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "начало",
+   "gloss": "НАЧАЛО",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "начать"
+   ]
+  },
+  {
+   "id": "начать",
+   "gloss": "НАЧАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "начинать",
+    "сначала",
+    "начало"
+   ]
+  },
+  {
+   "id": "начинать",
+   "gloss": "НАЧИНАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "начать",
+    "сначала"
+   ]
+  },
+  {
+   "id": "наш",
+   "gloss": "НАШ",
+   "cat": "people",
+   "rec": true,
+   "similar": [
+    "мой"
+   ]
+  },
+  {
+   "id": "нашествие",
+   "gloss": "НАШЕСТВИЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "не",
+   "gloss": "НЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "не выносить",
+   "gloss": "НЕ ВЫНОСИТЬ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "ненавидеть"
+   ]
+  },
+  {
+   "id": "неверие",
+   "gloss": "НЕВЕРИЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": [
+    "уверенный"
+   ]
+  },
+  {
+   "id": "невиновный",
+   "gloss": "НЕВИНОВНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "невозможный",
+   "gloss": "НЕВОЗМОЖНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "недавний",
+   "gloss": "НЕДАВНИЙ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "неделя",
+   "gloss": "НЕДЕЛЯ",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "недобрый",
+   "gloss": "НЕДОБРЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "недовольный",
+   "gloss": "НЕДОВОЛЬНЫЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "нежный",
+   "gloss": "НЕЖНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "нежный, мягкий",
+   "gloss": "НЕЖНЫЙ, МЯГКИЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "днем"
+   ]
+  },
+  {
+   "id": "неловкий; неуклюжий",
+   "gloss": "НЕЛОВКИЙ / НЕУКЛЮЖИЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "немедленно",
+   "gloss": "НЕМЕДЛЕННО",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "быстрый"
+   ]
+  },
+  {
+   "id": "немедленный",
+   "gloss": "НЕМЕДЛЕННЫЙ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "немного",
+   "gloss": "НЕМНОГО",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ненавидеть",
+   "gloss": "НЕНАВИДЕТЬ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "не выносить"
+   ]
+  },
+  {
+   "id": "необходимый",
+   "gloss": "НЕОБХОДИМЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "неожиданный",
+   "gloss": "НЕОЖИДАННЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "непослушный",
+   "gloss": "НЕПОСЛУШНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "непреклонный",
+   "gloss": "НЕПРЕКЛОННЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "неприятный",
+   "gloss": "НЕПРИЯТНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "расстройство",
+    "подавленный"
+   ]
+  },
+  {
+   "id": "непрозрачность",
+   "gloss": "НЕПРОЗРАЧНОСТЬ",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "нерадивый",
+   "gloss": "НЕРАДИВЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "нераскрашенный",
+   "gloss": "НЕРАСКРАШЕННЫЙ",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "нервный",
+   "gloss": "НЕРВНЫЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "несколько",
+   "gloss": "НЕСКОЛЬКО",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "несчастье",
+   "gloss": "НЕСЧАСТЬЕ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "неуважение",
+   "gloss": "НЕУВАЖЕНИЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "неудобно",
+   "gloss": "НЕУДОБНО",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "неудобство",
+   "gloss": "НЕУДОБСТВО",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "низкий",
+   "gloss": "НИЗКИЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "никогда",
+   "gloss": "НИКОГДА",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "никто",
+   "gloss": "НИКТО",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "ничего",
+   "gloss": "НИЧЕГО",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "новости",
+   "gloss": "НОВОСТИ",
+   "cat": "things",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "новый",
+   "gloss": "НОВЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "нога",
+   "gloss": "НОГА",
+   "cat": "health",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "ноль",
+   "gloss": "НОЛЬ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "носорог",
+   "gloss": "НОСОРОГ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ночь",
+   "gloss": "НОЧЬ",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "темнота"
+   ]
+  },
+  {
+   "id": "ноябрь",
+   "gloss": "НОЯБРЬ",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "нравиться",
+   "gloss": "НРАВИТЬСЯ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "нравственность",
+   "gloss": "НРАВСТВЕННОСТЬ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "нуждаться",
+   "gloss": "НУЖДАТЬСЯ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "оба",
+   "gloss": "ОБА",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "обедать",
+   "gloss": "ОБЕДАТЬ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "обезьяна",
+   "gloss": "ОБЕЗЬЯНА",
+   "cat": "animals",
+   "rec": false,
+   "similar": [
+    "животное"
+   ]
+  },
+  {
+   "id": "обеспокоен",
+   "gloss": "ОБЕСПОКОЕН",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "беспокойство"
+   ]
+  },
+  {
+   "id": "обеспокоенный",
+   "gloss": "ОБЕСПОКОЕННЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "обещать",
+   "gloss": "ОБЕЩАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "Обладать",
+   "gloss": "ОБЛАДАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "облегчение",
+   "gloss": "ОБЛЕГЧЕНИЕ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "обманчивость",
+   "gloss": "ОБМАНЧИВОСТЬ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "обнимать",
+   "gloss": "ОБНИМАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "образованный",
+   "gloss": "ОБРАЗОВАННЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "интеллектуальный"
+   ]
+  },
+  {
+   "id": "обучать",
+   "gloss": "ОБУЧАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "объективный",
+   "gloss": "ОБЪЕКТИВНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "объятие",
+   "gloss": "ОБЪЯТИЕ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "обычно",
+   "gloss": "ОБЫЧНО",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "обычный",
+   "gloss": "ОБЫЧНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "овца",
+   "gloss": "ОВЦА",
+   "cat": "animals",
+   "rec": false,
+   "similar": [
+    "разгневанный"
+   ]
+  },
+  {
+   "id": "одаренный",
+   "gloss": "ОДАРЕННЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "талант"
+   ]
+  },
+  {
+   "id": "одежда",
+   "gloss": "ОДЕЖДА",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "одержимый",
+   "gloss": "ОДЕРЖИМЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "один",
+   "gloss": "ОДИН",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "одиннадцатый",
+   "gloss": "ОДИННАДЦАТЫЙ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "одиннадцать",
+   "gloss": "ОДИННАДЦАТЬ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "одинокий",
+   "gloss": "ОДИНОКИЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "однажды",
+   "gloss": "ОДНАЖДЫ",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "одновременность",
+   "gloss": "ОДНОВРЕМЕННОСТЬ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "одолжить",
+   "gloss": "ОДОЛЖИТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "оживленный",
+   "gloss": "ОЖИВЛЕННЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ожидать",
+   "gloss": "ОЖИДАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ожидающий",
+   "gloss": "ОЖИДАЮЩИЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "озабоченный",
+   "gloss": "ОЗАБОЧЕННЫЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "около",
+   "gloss": "ОКОЛО",
+   "cat": "places",
+   "rec": false,
+   "similar": [
+    "перед"
+   ]
+  },
+  {
+   "id": "октябрь",
+   "gloss": "ОКТЯБРЬ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "окунать",
+   "gloss": "ОКУНАТЬ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "олень",
+   "gloss": "ОЛЕНЬ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "опасный",
+   "gloss": "ОПАСНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "опытный",
+   "gloss": "ОПЫТНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "от"
+   ]
+  },
+  {
+   "id": "опять",
+   "gloss": "ОПЯТЬ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "оранжевый",
+   "gloss": "ОРАНЖЕВЫЙ",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "орел",
+   "gloss": "ОРЕЛ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "осел",
+   "gloss": "ОСЕЛ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "осень",
+   "gloss": "ОСЕНЬ",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "основной цвет",
+   "gloss": "ОСНОВНОЙ ЦВЕТ",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "особенно",
+   "gloss": "ОСОБЕННО",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "особенный",
+   "gloss": "ОСОБЕННЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "оставить",
+   "gloss": "ОСТАВИТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "остановить",
+   "gloss": "ОСТАНОВИТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "остановиться"
+   ]
+  },
+  {
+   "id": "остановиться",
+   "gloss": "ОСТАНОВИТЬСЯ",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "остановить"
+   ]
+  },
+  {
+   "id": "остаться",
+   "gloss": "ОСТАТЬСЯ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "осторожный",
+   "gloss": "ОСТОРОЖНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "остроумие",
+   "gloss": "ОСТРОУМИЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "острый",
+   "gloss": "ОСТРЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "от",
+   "gloss": "ОТ",
+   "cat": "other",
+   "rec": true,
+   "similar": [
+    "опытный"
+   ]
+  },
+  {
+   "id": "отважиться",
+   "gloss": "ОТВАЖИТЬСЯ",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "мужественность"
+   ]
+  },
+  {
+   "id": "ответить",
+   "gloss": "ОТВЕТИТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "сказать"
+   ]
+  },
+  {
+   "id": "ответственный",
+   "gloss": "ОТВЕТСТВЕННЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "отвратительный",
+   "gloss": "ОТВРАТИТЕЛЬНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "отвращение",
+   "gloss": "ОТВРАЩЕНИЕ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "отец",
+   "gloss": "ОТЕЦ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "откладывать",
+   "gloss": "ОТКЛАДЫВАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "открыть",
+   "gloss": "ОТКРЫТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "откупоривать",
+   "gloss": "ОТКУПОРИВАТЬ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "откусывание",
+   "gloss": "ОТКУСЫВАНИЕ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "отличный",
+   "gloss": "ОТЛИЧНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "отложенный",
+   "gloss": "ОТЛОЖЕННЫЙ",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "отложить"
+   ]
+  },
+  {
+   "id": "отложить",
+   "gloss": "ОТЛОЖИТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "отложенный"
+   ]
+  },
+  {
+   "id": "отношение",
+   "gloss": "ОТНОШЕНИЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "отрицательный",
+   "gloss": "ОТРИЦАТЕЛЬНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "оттенок",
+   "gloss": "ОТТЕНОК",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "отчаянный",
+   "gloss": "ОТЧАЯННЫЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "отчаяться",
+   "gloss": "ОТЧАЯТЬСЯ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "расстройство"
+   ]
+  },
+  {
+   "id": "официант",
+   "gloss": "ОФИЦИАНТ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "охотно",
+   "gloss": "ОХОТНО",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "быть"
+   ]
+  },
+  {
+   "id": "очень",
+   "gloss": "ОЧЕНЬ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ошарашенный",
+   "gloss": "ОШАРАШЕННЫЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ошеломить",
+   "gloss": "ОШЕЛОМИТЬ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ошибка",
+   "gloss": "ОШИБКА",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "павлин",
+   "gloss": "ПАВЛИН",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Память",
+   "gloss": "ПАМЯТЬ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "панда",
+   "gloss": "ПАНДА",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "паук",
+   "gloss": "ПАУК",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "паучья сеть",
+   "gloss": "ПАУЧЬЯ СЕТЬ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "первый",
+   "gloss": "ПЕРВЫЙ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "переваривание",
+   "gloss": "ПЕРЕВАРИВАНИЕ",
+   "cat": "food",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "переваривать",
+   "gloss": "ПЕРЕВАРИВАТЬ",
+   "cat": "food",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "переводить",
+   "gloss": "ПЕРЕВОДИТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "перед",
+   "gloss": "ПЕРЕД",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "около"
+   ]
+  },
+  {
+   "id": "перо",
+   "gloss": "ПЕРО",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "петух",
+   "gloss": "ПЕТУХ",
+   "cat": "animals",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "петь",
+   "gloss": "ПЕТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "печаль",
+   "gloss": "ПЕЧАЛЬ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "расстроенный"
+   ]
+  },
+  {
+   "id": "пингвин",
+   "gloss": "ПИНГВИН",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "пир",
+   "gloss": "ПИР",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "писать",
+   "gloss": "ПИСАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "внизу"
+   ]
+  },
+  {
+   "id": "письмо",
+   "gloss": "ПИСЬМО",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "пить",
+   "gloss": "ПИТЬ",
+   "cat": "food",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "питьевая вода",
+   "gloss": "ПИТЬЕВАЯ ВОДА",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "плавник",
+   "gloss": "ПЛАВНИК",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "плакать",
+   "gloss": "ПЛАКАТЬ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "разрыдаться"
+   ]
+  },
+  {
+   "id": "плата за вход",
+   "gloss": "ПЛАТА ЗА ВХОД",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "платить",
+   "gloss": "ПЛАТИТЬ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Плохо",
+   "gloss": "ПЛОХО",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "плохой",
+   "gloss": "ПЛОХОЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "по часам",
+   "gloss": "ПО ЧАСАМ",
+   "cat": "time",
+   "rec": true,
+   "similar": [
+    "назначенное время"
+   ]
+  },
+  {
+   "id": "повар",
+   "gloss": "ПОВАР",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "поверхностный",
+   "gloss": "ПОВЕРХНОСТНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "погода",
+   "gloss": "ПОГОДА",
+   "cat": "things",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "под",
+   "gloss": "ПОД",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "подавленный",
+   "gloss": "ПОДАВЛЕННЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "неприятный"
+   ]
+  },
+  {
+   "id": "подлинный",
+   "gloss": "ПОДЛИННЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "поднос",
+   "gloss": "ПОДНОС",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "подозревать",
+   "gloss": "ПОДОЗРЕВАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Подробно",
+   "gloss": "ПОДРОБНО",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "подруга",
+   "gloss": "ПОДРУГА",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "позволить",
+   "gloss": "ПОЗВОЛИТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Позвонить на сервис",
+   "gloss": "ПОЗВОНИТЬ НА СЕРВИС",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "поздний",
+   "gloss": "ПОЗДНИЙ",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "поздно"
+   ]
+  },
+  {
+   "id": "поздно",
+   "gloss": "ПОЗДНО",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "поздний",
+    "запоздалый"
+   ]
+  },
+  {
+   "id": "позор",
+   "gloss": "ПОЗОР",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Пока",
+   "gloss": "ПОКА",
+   "cat": "greetings",
+   "rec": false,
+   "similar": [
+    "пока (что)"
+   ]
+  },
+  {
+   "id": "пока (что)",
+   "gloss": "ПОКА (ЧТО)",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "Пока"
+   ]
+  },
+  {
+   "id": "показать",
+   "gloss": "ПОКАЗАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "покаяние",
+   "gloss": "ПОКАЯНИЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "покраснеть",
+   "gloss": "ПОКРАСНЕТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ползанье",
+   "gloss": "ПОЛЗАНЬЕ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "полный",
+   "gloss": "ПОЛНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": [
+    "целый"
+   ]
+  },
+  {
+   "id": "положительный",
+   "gloss": "ПОЛОЖИТЕЛЬНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "положить",
+   "gloss": "ПОЛОЖИТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "получающий удовольствие",
+   "gloss": "ПОЛУЧАЮЩИЙ УДОВОЛЬСТВИЕ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "получить",
+   "gloss": "ПОЛУЧИТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "помесь",
+   "gloss": "ПОМЕСЬ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "помочь",
+   "gloss": "ПОМОЧЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "помощник повара",
+   "gloss": "ПОМОЩНИК ПОВАРА",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "понедельник",
+   "gloss": "ПОНЕДЕЛЬНИК",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "понять",
+   "gloss": "ПОНЯТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "попугай",
+   "gloss": "ПОПУГАЙ",
+   "cat": "animals",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "после",
+   "gloss": "ПОСЛЕ",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "последний",
+   "gloss": "ПОСЛЕДНИЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "послушный",
+   "gloss": "ПОСЛУШНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "смириться"
+   ]
+  },
+  {
+   "id": "постепенно",
+   "gloss": "ПОСТЕПЕННО",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "постоянный",
+   "gloss": "ПОСТОЯННЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "посылать",
+   "gloss": "ПОСЫЛАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "потом",
+   "gloss": "ПОТОМ",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "затем; потом"
+   ]
+  },
+  {
+   "id": "потрясающий",
+   "gloss": "ПОТРЯСАЮЩИЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "почва",
+   "gloss": "ПОЧВА",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "почему",
+   "gloss": "ПОЧЕМУ",
+   "cat": "questions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Почки",
+   "gloss": "ПОЧКИ",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "правша",
+   "gloss": "ПРАВША",
+   "cat": "health",
+   "rec": false,
+   "similar": [
+    "правый"
+   ]
+  },
+  {
+   "id": "правый",
+   "gloss": "ПРАВЫЙ",
+   "cat": "places",
+   "rec": false,
+   "similar": [
+    "левый",
+    "правша"
+   ]
+  },
+  {
+   "id": "прагматичный",
+   "gloss": "ПРАГМАТИЧНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "преданный",
+   "gloss": "ПРЕДАННЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "предложить",
+   "gloss": "ПРЕДЛОЖИТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "предложить тост",
+   "gloss": "ПРЕДЛОЖИТЬ ТОСТ",
+   "cat": "greetings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "предпочитать",
+   "gloss": "ПРЕДПОЧИТАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "предусмотрительный",
+   "gloss": "ПРЕДУСМОТРИТЕЛЬНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "предыдущий",
+   "gloss": "ПРЕДЫДУЩИЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "презирать",
+   "gloss": "ПРЕЗИРАТЬ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "презрение",
+   "gloss": "ПРЕЗРЕНИЕ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "прекрасный",
+   "gloss": "ПРЕКРАСНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": [
+    "чудесный"
+   ]
+  },
+  {
+   "id": "пренебрежение",
+   "gloss": "ПРЕНЕБРЕЖЕНИЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "прибывать",
+   "gloss": "ПРИБЫВАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "привезти",
+   "gloss": "ПРИВЕЗТИ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Привет!",
+   "gloss": "ПРИВЕТ",
+   "cat": "greetings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "привык",
+   "gloss": "ПРИВЫК",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "прием пищи",
+   "gloss": "ПРИЕМ ПИЩИ",
+   "cat": "food",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "прийти",
+   "gloss": "ПРИЙТИ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "приличный",
+   "gloss": "ПРИЛИЧНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "аккуратный"
+   ]
+  },
+  {
+   "id": "принести",
+   "gloss": "ПРИНЕСТИ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "прирученный",
+   "gloss": "ПРИРУЧЕННЫЙ",
+   "cat": "animals",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "причина",
+   "gloss": "ПРИЧИНА",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "причинять резкую боль",
+   "gloss": "ПРИЧИНЯТЬ РЕЗКУЮ БОЛЬ",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "приятный",
+   "gloss": "ПРИЯТНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "проверить",
+   "gloss": "ПРОВЕРИТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "продать",
+   "gloss": "ПРОДАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "продлевать",
+   "gloss": "ПРОДЛЕВАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "затягивать"
+   ]
+  },
+  {
+   "id": "продление",
+   "gloss": "ПРОДЛЕНИЕ",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "затягивать"
+   ]
+  },
+  {
+   "id": "продолжительность",
+   "gloss": "ПРОДОЛЖИТЕЛЬНОСТЬ",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "продолжить",
+   "gloss": "ПРОДОЛЖИТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "продуманный",
+   "gloss": "ПРОДУМАННЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "прозрачный",
+   "gloss": "ПРОЗРАЧНЫЙ",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "проныра",
+   "gloss": "ПРОНЫРА",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "против",
+   "gloss": "ПРОТИВ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "Прощание",
+   "gloss": "ПРОЩАНИЕ",
+   "cat": "greetings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "птица",
+   "gloss": "ПТИЦА",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "пустой",
+   "gloss": "ПУСТОЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "путешествие",
+   "gloss": "ПУТЕШЕСТВИЕ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "путешествовать",
+   "gloss": "ПУТЕШЕСТВОВАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "пчела",
+   "gloss": "ПЧЕЛА",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Пылесос",
+   "gloss": "ПЫЛЕСОС",
+   "cat": "things",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "пятнадцать",
+   "gloss": "ПЯТНАДЦАТЬ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "пятница",
+   "gloss": "ПЯТНИЦА",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "пятый",
+   "gloss": "ПЯТЫЙ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "пять",
+   "gloss": "ПЯТЬ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "пять тысяч",
+   "gloss": "ПЯТЬ ТЫСЯЧ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "пятьдесят",
+   "gloss": "ПЯТЬДЕСЯТ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "пятьсот",
+   "gloss": "ПЯТЬСОТ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Раб",
+   "gloss": "РАБ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "работать",
+   "gloss": "РАБОТАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "рад",
+   "gloss": "РАД",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "радость"
+   ]
+  },
+  {
+   "id": "радостный",
+   "gloss": "РАДОСТНЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "радость",
+   "gloss": "РАДОСТЬ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "рад"
+   ]
+  },
+  {
+   "id": "разгневанный",
+   "gloss": "РАЗГНЕВАННЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "овца"
+   ]
+  },
+  {
+   "id": "раздражать",
+   "gloss": "РАЗДРАЖАТЬ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "различный",
+   "gloss": "РАЗЛИЧНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "другой"
+   ]
+  },
+  {
+   "id": "разочарованный",
+   "gloss": "РАЗОЧАРОВАННЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "грустный"
+   ]
+  },
+  {
+   "id": "разрыдаться",
+   "gloss": "РАЗРЫДАТЬСЯ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "плакать"
+   ]
+  },
+  {
+   "id": "разумный",
+   "gloss": "РАЗУМНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "разъяренный",
+   "gloss": "РАЗЪЯРЕННЫЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ранее",
+   "gloss": "РАНЕЕ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ранний",
+   "gloss": "РАННИЙ",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "рано"
+   ]
+  },
+  {
+   "id": "рано",
+   "gloss": "РАНО",
+   "cat": "time",
+   "rec": true,
+   "similar": [
+    "ранний"
+   ]
+  },
+  {
+   "id": "расписание",
+   "gloss": "РАСПИСАНИЕ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "распределять",
+   "gloss": "РАСПРЕДЕЛЯТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "рассердиться",
+   "gloss": "РАССЕРДИТЬСЯ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "рассеянный",
+   "gloss": "РАССЕЯННЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "расслабиться",
+   "gloss": "РАССЛАБИТЬСЯ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": [
+    "расслабление"
+   ]
+  },
+  {
+   "id": "расслабление",
+   "gloss": "РАССЛАБЛЕНИЕ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "расслабиться"
+   ]
+  },
+  {
+   "id": "расстроенный",
+   "gloss": "РАССТРОЕННЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "печаль"
+   ]
+  },
+  {
+   "id": "расстройство",
+   "gloss": "РАССТРОЙСТВО",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "отчаяться",
+    "неприятный"
+   ]
+  },
+  {
+   "id": "рвеность",
+   "gloss": "РВЕНОСТЬ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "ребёнок",
+   "gloss": "РЕБЁНОК",
+   "cat": "people",
+   "rec": true,
+   "similar": [
+    "детский"
+   ]
+  },
+  {
+   "id": "ребяческий",
+   "gloss": "РЕБЯЧЕСКИЙ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ревнивый",
+   "gloss": "РЕВНИВЫЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "редко",
+   "gloss": "РЕДКО",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "резервирование; бронирование",
+   "gloss": "РЕЗЕРВИРОВАНИЕ / БРОНИРОВАНИЕ",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "занятый"
+   ]
+  },
+  {
+   "id": "Религия",
+   "gloss": "РЕЛИГИЯ",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ресторан",
+   "gloss": "РЕСТОРАН",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "рога",
+   "gloss": "РОГА",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "розовато-лиловый",
+   "gloss": "РОЗОВАТО-ЛИЛОВЫЙ",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "розовый",
+   "gloss": "РОЗОВЫЙ",
+   "cat": "colors",
+   "rec": true,
+   "similar": [
+    "четвертый"
+   ]
+  },
+  {
+   "id": "рот",
+   "gloss": "РОТ",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Рубль",
+   "gloss": "РУБЛЬ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "рука",
+   "gloss": "РУКА",
+   "cat": "health",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ручка",
+   "gloss": "РУЧКА",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "рыба",
+   "gloss": "РЫБА",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "рыдать",
+   "gloss": "РЫДАТЬ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "рычание",
+   "gloss": "РЫЧАНИЕ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "рычать",
+   "gloss": "РЫЧАТЬ",
+   "cat": "animals",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "с",
+   "gloss": "С",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "С днем рождения",
+   "gloss": "С ДНЕМ РОЖДЕНИЯ",
+   "cat": "greetings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "с тех пор как",
+   "gloss": "С ТЕХ ПОР КАК",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "самоанализ",
+   "gloss": "САМОАНАЛИЗ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "самовосприятие",
+   "gloss": "САМОВОСПРИЯТИЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "самоконтроль",
+   "gloss": "САМОКОНТРОЛЬ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "самомнение",
+   "gloss": "САМОМНЕНИЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "самообман",
+   "gloss": "САМООБМАН",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "самоосознание",
+   "gloss": "САМООСОЗНАНИЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "самопроверка",
+   "gloss": "САМОПРОВЕРКА",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "сарказм",
+   "gloss": "САРКАЗМ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "сверху",
+   "gloss": "СВЕРХУ",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "свет",
+   "gloss": "СВЕТ",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "свинья",
+   "gloss": "СВИНЬЯ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Свисток",
+   "gloss": "СВИСТОК",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "свободный",
+   "gloss": "СВОБОДНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "север",
+   "gloss": "СЕВЕР",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "сегодня",
+   "gloss": "СЕГОДНЯ",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "в настоящее время"
+   ]
+  },
+  {
+   "id": "седьмой",
+   "gloss": "СЕДЬМОЙ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "семнадцать",
+   "gloss": "СЕМНАДЦАТЬ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "семь",
+   "gloss": "СЕМЬ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "семьдесят",
+   "gloss": "СЕМЬДЕСЯТ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "семьсот",
+   "gloss": "СЕМЬСОТ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "семья",
+   "gloss": "СЕМЬЯ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "сердитый",
+   "gloss": "СЕРДИТЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "сердце",
+   "gloss": "СЕРДЦЕ",
+   "cat": "health",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "серебро",
+   "gloss": "СЕРЕБРО",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "серый",
+   "gloss": "СЕРЫЙ",
+   "cat": "colors",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "сестра",
+   "gloss": "СЕСТРА",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "сзади",
+   "gloss": "СЗАДИ",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "сильный",
+   "gloss": "СИЛЬНЫЙ",
+   "cat": "health",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "синий",
+   "gloss": "СИНИЙ",
+   "cat": "colors",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "сказать",
+   "gloss": "СКАЗАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "ответить"
+   ]
+  },
+  {
+   "id": "сквозь",
+   "gloss": "СКВОЗЬ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "сколько",
+   "gloss": "СКОЛЬКО",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "скорбеть",
+   "gloss": "СКОРБЕТЬ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "скоро",
+   "gloss": "СКОРО",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "скромный",
+   "gloss": "СКРОМНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "скучающий",
+   "gloss": "СКУЧАЮЩИЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "скучный",
+   "gloss": "СКУЧНЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "слабость",
+   "gloss": "СЛАБОСТЬ",
+   "cat": "health",
+   "rec": false,
+   "similar": [
+    "слабый"
+   ]
+  },
+  {
+   "id": "слабый",
+   "gloss": "СЛАБЫЙ",
+   "cat": "health",
+   "rec": false,
+   "similar": [
+    "слабость"
+   ]
+  },
+  {
+   "id": "следовало",
+   "gloss": "СЛЕДОВАЛО",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "следующий",
+   "gloss": "СЛЕДУЮЩИЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "слишком",
+   "gloss": "СЛИШКОМ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "слово",
+   "gloss": "СЛОВО",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "слон",
+   "gloss": "СЛОН",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "слушать",
+   "gloss": "СЛУШАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "слышать",
+   "gloss": "СЛЫШАТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "смелость",
+   "gloss": "СМЕЛОСТЬ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "мужественность"
+   ]
+  },
+  {
+   "id": "Смех",
+   "gloss": "СМЕХ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "смешной",
+   "gloss": "СМЕШНОЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "смеяться"
+   ]
+  },
+  {
+   "id": "смеяться",
+   "gloss": "СМЕЯТЬСЯ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "смешной"
+   ]
+  },
+  {
+   "id": "смириться",
+   "gloss": "СМИРИТЬСЯ",
+   "cat": "actions",
+   "rec": true,
+   "similar": [
+    "послушный"
+   ]
+  },
+  {
+   "id": "смотреть",
+   "gloss": "СМОТРЕТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "смущенный",
+   "gloss": "СМУЩЕННЫЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "сначала",
+   "gloss": "СНАЧАЛА",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "начинать",
+    "начать"
+   ]
+  },
+  {
+   "id": "собака",
+   "gloss": "СОБАКА",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "собачий домик",
+   "gloss": "СОБАЧИЙ ДОМИК",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "собирать",
+   "gloss": "СОБИРАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "согласно",
+   "gloss": "СОГЛАСНО",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "сожаление",
+   "gloss": "СОЖАЛЕНИЕ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "желать",
+    "желание"
+   ]
+  },
+  {
+   "id": "сожалеть",
+   "gloss": "СОЖАЛЕТЬ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "солнце",
+   "gloss": "СОЛНЦЕ",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Соль",
+   "gloss": "СОЛЬ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "сомневаться",
+   "gloss": "СОМНЕВАТЬСЯ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "сомнение",
+   "gloss": "СОМНЕНИЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "сорок",
+   "gloss": "СОРОК",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "соты",
+   "gloss": "СОТЫ",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "сочувствие",
+   "gloss": "СОЧУВСТВИЕ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "спать",
+   "gloss": "СПАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "спокойный",
+   "gloss": "СПОКОЙНЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "способ",
+   "gloss": "СПОСОБ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "спросить",
+   "gloss": "СПРОСИТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Сразу",
+   "gloss": "СРАЗУ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "среда",
+   "gloss": "СРЕДА",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "срочный",
+   "gloss": "СРОЧНЫЙ",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "старый",
+   "gloss": "СТАРЫЙ",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "сто",
+   "gloss": "СТО",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "стойкость",
+   "gloss": "СТОЙКОСТЬ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "сторона",
+   "gloss": "СТОРОНА",
+   "cat": "places",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "стоять",
+   "gloss": "СТОЯТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "страдание",
+   "gloss": "СТРАДАНИЕ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "страдать",
+   "gloss": "СТРАДАТЬ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "дистресс"
+   ]
+  },
+  {
+   "id": "странный",
+   "gloss": "СТРАННЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "страсть",
+   "gloss": "СТРАСТЬ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "страх",
+   "gloss": "СТРАХ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "страшный",
+   "gloss": "СТРАШНЫЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "строгий",
+   "gloss": "СТРОГИЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "стыдно",
+   "gloss": "СТЫДНО",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "суббота",
+   "gloss": "СУББОТА",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "суматоха",
+   "gloss": "СУМАТОХА",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "беспокойство"
+   ]
+  },
+  {
+   "id": "сумка",
+   "gloss": "СУМКА",
+   "cat": "things",
+   "rec": false,
+   "similar": [
+    "чемодан"
+   ]
+  },
+  {
+   "id": "сухой",
+   "gloss": "СУХОЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "счастливый",
+   "gloss": "СЧАСТЛИВЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "счастье"
+   ]
+  },
+  {
+   "id": "счастье",
+   "gloss": "СЧАСТЬЕ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "счастливый"
+   ]
+  },
+  {
+   "id": "сын",
+   "gloss": "СЫН",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "сюрприз",
+   "gloss": "СЮРПРИЗ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "так себе",
+   "gloss": "ТАК СЕБЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "такой",
+   "gloss": "ТАКОЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "талант",
+   "gloss": "ТАЛАНТ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "одаренный",
+    "голова"
+   ]
+  },
+  {
+   "id": "там",
+   "gloss": "ТАМ",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "твердый",
+   "gloss": "ТВЕРДЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "твой",
+   "gloss": "ТВОЙ",
+   "cat": "people",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "те",
+   "gloss": "ТЕ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "тебе",
+   "gloss": "ТЕБЕ",
+   "cat": "people",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "тебя",
+   "gloss": "ТЕБЯ",
+   "cat": "people",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "темнота",
+   "gloss": "ТЕМНОТА",
+   "cat": "colors",
+   "rec": false,
+   "similar": [
+    "ночь"
+   ]
+  },
+  {
+   "id": "тёмный",
+   "gloss": "ТЁМНЫЙ",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "теперь",
+   "gloss": "ТЕПЕРЬ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "тёплый",
+   "gloss": "ТЁПЛЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "терпение",
+   "gloss": "ТЕРПЕНИЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "терпеть",
+   "gloss": "ТЕРПЕТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "терять",
+   "gloss": "ТЕРЯТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": [
+    "уже"
+   ]
+  },
+  {
+   "id": "тигр",
+   "gloss": "ТИГР",
+   "cat": "animals",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "тогда",
+   "gloss": "ТОГДА",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "тоже",
+   "gloss": "ТОЖЕ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "только",
+   "gloss": "ТОЛЬКО",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "торжественный",
+   "gloss": "ТОРЖЕСТВЕННЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "тот",
+   "gloss": "ТОТ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "тот же самый (одинаковый)",
+   "gloss": "ТОТ ЖЕ САМЫЙ (ОДИНАКОВЫЙ)",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "точно",
+   "gloss": "ТОЧНО",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "третий",
+   "gloss": "ТРЕТИЙ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "три",
+   "gloss": "ТРИ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "три тысячи",
+   "gloss": "ТРИ ТЫСЯЧИ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "тридцать",
+   "gloss": "ТРИДЦАТЬ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "тринадцать",
+   "gloss": "ТРИНАДЦАТЬ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "триста",
+   "gloss": "ТРИСТА",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "трудный",
+   "gloss": "ТРУДНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "трус",
+   "gloss": "ТРУС",
+   "cat": "people",
+   "rec": false,
+   "similar": [
+    "боюсь"
+   ]
+  },
+  {
+   "id": "трусливо",
+   "gloss": "ТРУСЛИВО",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "боюсь"
+   ]
+  },
+  {
+   "id": "тщеславный",
+   "gloss": "ТЩЕСЛАВНЫЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ты",
+   "gloss": "ТЫ",
+   "cat": "people",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "тысяча",
+   "gloss": "ТЫСЯЧА",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "тяжёлый",
+   "gloss": "ТЯЖЁЛЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "уверен",
+   "gloss": "УВЕРЕН",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "уверенный"
+   ]
+  },
+  {
+   "id": "уверенный",
+   "gloss": "УВЕРЕННЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "уверен",
+    "верить",
+    "неверие"
+   ]
+  },
+  {
+   "id": "угрюмый",
+   "gloss": "УГРЮМЫЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "удивлён",
+   "gloss": "УДИВЛЁН",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "ужасный",
+   "gloss": "УЖАСНЫЙ",
+   "cat": "feelings",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "уже",
+   "gloss": "УЖЕ",
+   "cat": "time",
+   "rec": false,
+   "similar": [
+    "терять"
+   ]
+  },
+  {
+   "id": "улица",
+   "gloss": "УЛИЦА",
+   "cat": "places",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "упасть",
+   "gloss": "УПАСТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "уронить",
+   "gloss": "УРОНИТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "утро",
+   "gloss": "УТРО",
+   "cat": "time",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "фиолетовый",
+   "gloss": "ФИОЛЕТОВЫЙ",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Футбол",
+   "gloss": "ФУТБОЛ",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "хлеб",
+   "gloss": "ХЛЕБ",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "холодный",
+   "gloss": "ХОЛОДНЫЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "хороший",
+   "gloss": "ХОРОШИЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "хорошо",
+   "gloss": "ХОРОШО",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "хотеть",
+   "gloss": "ХОТЕТЬ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "худший",
+   "gloss": "ХУДШИЙ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "цвет",
+   "gloss": "ЦВЕТ",
+   "cat": "colors",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "цвета",
+   "gloss": "ЦВЕТА",
+   "cat": "colors",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "цветовой оттенок",
+   "gloss": "ЦВЕТОВОЙ ОТТЕНОК",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "целый",
+   "gloss": "ЦЕЛЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "полный"
+   ]
+  },
+  {
+   "id": "Цемент",
+   "gloss": "ЦЕМЕНТ",
+   "cat": "things",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "цена",
+   "gloss": "ЦЕНА",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "час",
+   "gloss": "ЧАС",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "часто",
+   "gloss": "ЧАСТО",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "часть",
+   "gloss": "ЧАСТЬ",
+   "cat": "other",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "часы",
+   "gloss": "ЧАСЫ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "Чашка",
+   "gloss": "ЧАШКА",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "человек",
+   "gloss": "ЧЕЛОВЕК",
+   "cat": "people",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "чемодан",
+   "gloss": "ЧЕМОДАН",
+   "cat": "things",
+   "rec": false,
+   "similar": [
+    "сумка"
+   ]
+  },
+  {
+   "id": "черный",
+   "gloss": "ЧЕРНЫЙ",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "четверг",
+   "gloss": "ЧЕТВЕРГ",
+   "cat": "time",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "четвертый",
+   "gloss": "ЧЕТВЕРТЫЙ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": [
+    "розовый"
+   ]
+  },
+  {
+   "id": "четыре",
+   "gloss": "ЧЕТЫРЕ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "четыре тысячи",
+   "gloss": "ЧЕТЫРЕ ТЫСЯЧИ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "четыреста",
+   "gloss": "ЧЕТЫРЕСТА",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "четырнадцать",
+   "gloss": "ЧЕТЫРНАДЦАТЬ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "чистый",
+   "gloss": "ЧИСТЫЙ",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "читать",
+   "gloss": "ЧИТАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "что",
+   "gloss": "ЧТО",
+   "cat": "questions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "что-нибудь",
+   "gloss": "ЧТО-НИБУДЬ",
+   "cat": "questions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "чувствовать",
+   "gloss": "ЧУВСТВОВАТЬ",
+   "cat": "actions",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "чудесный",
+   "gloss": "ЧУДЕСНЫЙ",
+   "cat": "feelings",
+   "rec": false,
+   "similar": [
+    "прекрасный"
+   ]
+  },
+  {
+   "id": "Чужой",
+   "gloss": "ЧУЖОЙ",
+   "cat": "people",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "шестнадцать",
+   "gloss": "ШЕСТНАДЦАТЬ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "шестой",
+   "gloss": "ШЕСТОЙ",
+   "cat": "numbers",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "шесть",
+   "gloss": "ШЕСТЬ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "шестьдесят",
+   "gloss": "ШЕСТЬДЕСЯТ",
+   "cat": "numbers",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "школа",
+   "gloss": "ШКОЛА",
+   "cat": "places",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "шум",
+   "gloss": "ШУМ",
+   "cat": "things",
+   "rec": false,
+   "similar": [
+    "звук"
+   ]
+  },
+  {
+   "id": "шутить",
+   "gloss": "ШУТИТЬ",
+   "cat": "actions",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "эти",
+   "gloss": "ЭТИ",
+   "cat": "other",
+   "rec": false,
+   "similar": [
+    "этот"
+   ]
+  },
+  {
+   "id": "это",
+   "gloss": "ЭТО",
+   "cat": "other",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "этот",
+   "gloss": "ЭТОТ",
+   "cat": "other",
+   "rec": true,
+   "similar": [
+    "эти"
+   ]
+  },
+  {
+   "id": "юг",
+   "gloss": "ЮГ",
+   "cat": "places",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "я",
+   "gloss": "Я",
+   "cat": "people",
+   "rec": false,
+   "similar": [
+    "мне"
+   ]
+  },
+  {
+   "id": "язык",
+   "gloss": "ЯЗЫК",
+   "cat": "health",
+   "rec": false,
+   "similar": []
+  },
+  {
+   "id": "ясный",
+   "gloss": "ЯСНЫЙ",
+   "cat": "colors",
+   "rec": true,
+   "similar": []
+  },
+  {
+   "id": "MakDonalds",
+   "gloss": "MAKDONALDS",
+   "cat": "food",
+   "rec": true,
+   "similar": []
+  }
+ ]
+}

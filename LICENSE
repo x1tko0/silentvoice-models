@@ -1,0 +1,19 @@
+SilentVoice sign recognition models and avatar motion data
+Copyright (c) 2026 Orbitray
+
+This work (all files in this repository) is licensed under the
+Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+Full legal code: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Summary:         https://creativecommons.org/licenses/by-sa/4.0/
+
+This work is adapted from:
+- Slovo: Russian Sign Language Dataset — ai-forever (SberDevices), variant of CC BY-SA 4.0,
+  https://github.com/ai-forever/slovo
+- Bukva: Russian Sign Language Alphabet Dataset — ai-forever (SberDevices), variant of CC BY-SA 4.0,
+  https://github.com/ai-forever/bukva
+- PopSign ASL v1.0 — Georgia Institute of Technology, Google, CC BY 4.0,
+  https://signdata.cc.gatech.edu/view/datasets/popsign_v1_0/
+
+The adaptations are described in README.md ("Changes made to the source data").
+The terms of the source dataset licenses continue to apply to the parts derived from them.

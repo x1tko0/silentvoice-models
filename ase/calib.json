@@ -1,0 +1,1342 @@
+{
+ "featuresVersion": 1,
+ "classes": [
+  "after",
+  "airplane",
+  "all",
+  "alligator",
+  "animal",
+  "another",
+  "any",
+  "apple",
+  "arm",
+  "aunt",
+  "awake",
+  "backyard",
+  "bad",
+  "balloon",
+  "bath",
+  "because",
+  "bed",
+  "bedroom",
+  "bee",
+  "before",
+  "beside",
+  "better",
+  "bird",
+  "black",
+  "blow",
+  "blue",
+  "boat",
+  "book",
+  "boy",
+  "brother",
+  "brown",
+  "bug",
+  "bye",
+  "callonphone",
+  "can",
+  "car",
+  "carrot",
+  "cat",
+  "cereal",
+  "chair",
+  "cheek",
+  "child",
+  "chin",
+  "chocolate",
+  "clean",
+  "close",
+  "closet",
+  "cloud",
+  "clown",
+  "cow",
+  "cowboy",
+  "cry",
+  "cut",
+  "cute",
+  "dad",
+  "dance",
+  "dirty",
+  "dog",
+  "doll",
+  "donkey",
+  "down",
+  "drawer",
+  "drink",
+  "drop",
+  "dry",
+  "dryer",
+  "duck",
+  "ear",
+  "elephant",
+  "empty",
+  "every",
+  "eye",
+  "face",
+  "fall",
+  "farm",
+  "fast",
+  "feet",
+  "find",
+  "fine",
+  "finger",
+  "finish",
+  "fireman",
+  "first",
+  "fish",
+  "flag",
+  "flower",
+  "food",
+  "for",
+  "frenchfries",
+  "frog",
+  "garbage",
+  "gift",
+  "giraffe",
+  "girl",
+  "give",
+  "glasswindow",
+  "go",
+  "goose",
+  "grandma",
+  "grandpa",
+  "grass",
+  "green",
+  "gum",
+  "hair",
+  "happy",
+  "hat",
+  "hate",
+  "have",
+  "haveto",
+  "head",
+  "hear",
+  "helicopter",
+  "hello",
+  "hen",
+  "hesheit",
+  "hide",
+  "high",
+  "home",
+  "horse",
+  "hot",
+  "hungry",
+  "icecream",
+  "if",
+  "into",
+  "jacket",
+  "jeans",
+  "jump",
+  "kiss",
+  "kitty",
+  "lamp",
+  "later",
+  "like",
+  "lion",
+  "lips",
+  "listen",
+  "look",
+  "loud",
+  "mad",
+  "make",
+  "man",
+  "many",
+  "milk",
+  "minemy",
+  "mitten",
+  "mom",
+  "moon",
+  "morning",
+  "mouse",
+  "mouth",
+  "nap",
+  "napkin",
+  "night",
+  "no",
+  "noisy",
+  "nose",
+  "not",
+  "now",
+  "nuts",
+  "old",
+  "on",
+  "open",
+  "orange",
+  "outside",
+  "owie",
+  "owl",
+  "pajamas",
+  "pen",
+  "pencil",
+  "penny",
+  "person",
+  "pig",
+  "pizza",
+  "please",
+  "police",
+  "pool",
+  "potty",
+  "pretend",
+  "pretty",
+  "puppy",
+  "puzzle",
+  "quiet",
+  "radio",
+  "rain",
+  "read",
+  "red",
+  "refrigerator",
+  "ride",
+  "room",
+  "sad",
+  "same",
+  "say",
+  "scissors",
+  "see",
+  "shhh",
+  "shirt",
+  "shoe",
+  "shower",
+  "sick",
+  "sleep",
+  "sleepy",
+  "smile",
+  "snack",
+  "snow",
+  "stairs",
+  "stay",
+  "sticky",
+  "store",
+  "story",
+  "stuck",
+  "sun",
+  "table",
+  "talk",
+  "taste",
+  "thankyou",
+  "that",
+  "there",
+  "think",
+  "thirsty",
+  "tiger",
+  "time",
+  "tomorrow",
+  "tongue",
+  "tooth",
+  "toothbrush",
+  "touch",
+  "toy",
+  "tree",
+  "tv",
+  "uncle",
+  "underwear",
+  "up",
+  "vacuum",
+  "wait",
+  "wake",
+  "water",
+  "wet",
+  "weus",
+  "where",
+  "white",
+  "who",
+  "why",
+  "will",
+  "wolf",
+  "yellow",
+  "yes",
+  "yesterday",
+  "yourself",
+  "yucky",
+  "zebra",
+  "zipper",
+  "__none__"
+ ],
+ "temperatureInGraph": true,
+ "margin": 0.15,
+ "recognized": [
+  "after",
+  "airplane",
+  "all",
+  "alligator",
+  "animal",
+  "another",
+  "any",
+  "apple",
+  "arm",
+  "aunt",
+  "backyard",
+  "bad",
+  "balloon",
+  "bath",
+  "because",
+  "bedroom",
+  "bee",
+  "before",
+  "better",
+  "bird",
+  "black",
+  "blow",
+  "blue",
+  "boat",
+  "book",
+  "boy",
+  "brother",
+  "brown",
+  "bug",
+  "bye",
+  "callonphone",
+  "can",
+  "car",
+  "carrot",
+  "cat",
+  "cereal",
+  "chair",
+  "child",
+  "chocolate",
+  "clean",
+  "close",
+  "closet",
+  "cloud",
+  "clown",
+  "cow",
+  "cowboy",
+  "cry",
+  "cut",
+  "cute",
+  "dad",
+  "dance",
+  "dirty",
+  "dog",
+  "doll",
+  "donkey",
+  "down",
+  "drawer",
+  "drink",
+  "drop",
+  "dry",
+  "duck",
+  "ear",
+  "elephant",
+  "empty",
+  "every",
+  "face",
+  "fall",
+  "farm",
+  "fast",
+  "feet",
+  "find",
+  "fine",
+  "finish",
+  "fireman",
+  "first",
+  "fish",
+  "flag",
+  "food",
+  "for",
+  "frenchfries",
+  "frog",
+  "garbage",
+  "gift",
+  "giraffe",
+  "girl",
+  "give",
+  "go",
+  "goose",
+  "grandma",
+  "grandpa",
+  "green",
+  "gum",
+  "hair",
+  "happy",
+  "hat",
+  "hate",
+  "have",
+  "head",
+  "hear",
+  "helicopter",
+  "hello",
+  "hen",
+  "hesheit",
+  "high",
+  "home",
+  "horse",
+  "hot",
+  "hungry",
+  "icecream",
+  "if",
+  "into",
+  "jacket",
+  "jeans",
+  "jump",
+  "kiss",
+  "kitty",
+  "lamp",
+  "later",
+  "like",
+  "lion",
+  "listen",
+  "look",
+  "loud",
+  "mad",
+  "make",
+  "man",
+  "many",
+  "milk",
+  "minemy",
+  "mitten",
+  "mom",
+  "moon",
+  "morning",
+  "mouse",
+  "nap",
+  "napkin",
+  "night",
+  "no",
+  "noisy",
+  "now",
+  "nuts",
+  "on",
+  "open",
+  "orange",
+  "outside",
+  "owie",
+  "owl",
+  "pajamas",
+  "pen",
+  "penny",
+  "pig",
+  "pizza",
+  "please",
+  "police",
+  "pool",
+  "potty",
+  "pretend",
+  "pretty",
+  "puppy",
+  "puzzle",
+  "quiet",
+  "radio",
+  "rain",
+  "read",
+  "refrigerator",
+  "room",
+  "sad",
+  "same",
+  "scissors",
+  "see",
+  "shhh",
+  "shirt",
+  "shower",
+  "sick",
+  "sleep",
+  "sleepy",
+  "smile",
+  "snack",
+  "stairs",
+  "stay",
+  "store",
+  "story",
+  "stuck",
+  "sun",
+  "talk",
+  "taste",
+  "thankyou",
+  "there",
+  "think",
+  "thirsty",
+  "tiger",
+  "time",
+  "tomorrow",
+  "tongue",
+  "toothbrush",
+  "touch",
+  "toy",
+  "tree",
+  "tv",
+  "uncle",
+  "underwear",
+  "up",
+  "water",
+  "weus",
+  "where",
+  "white",
+  "who",
+  "will",
+  "wolf",
+  "yellow",
+  "yes",
+  "yesterday",
+  "yourself",
+  "yucky",
+  "zebra",
+  "zipper"
+ ],
+ "thresholds": {
+  "after": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "airplane": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "all": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "alligator": {
+   "balanced": 0.8977,
+   "strict": 0.9426
+  },
+  "animal": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "another": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "any": {
+   "balanced": 0.9659,
+   "strict": 0.9659
+  },
+  "apple": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "arm": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "aunt": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "backyard": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "bad": {
+   "balanced": 0.9774,
+   "strict": 0.9774
+  },
+  "balloon": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "bath": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "because": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "bedroom": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "bee": {
+   "balanced": 0.9242,
+   "strict": 0.9426
+  },
+  "before": {
+   "balanced": 0.9496,
+   "strict": 0.9496
+  },
+  "better": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "bird": {
+   "balanced": 0.9801,
+   "strict": 0.9801
+  },
+  "black": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "blow": {
+   "balanced": 0.8807,
+   "strict": 0.9426
+  },
+  "blue": {
+   "balanced": 0.8849,
+   "strict": 0.9426
+  },
+  "boat": {
+   "balanced": 0.8707,
+   "strict": 0.9426
+  },
+  "book": {
+   "balanced": 0.9746,
+   "strict": 0.9746
+  },
+  "boy": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "brother": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "brown": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "bug": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "bye": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "callonphone": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "can": {
+   "balanced": 0.967,
+   "strict": 0.967
+  },
+  "car": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "carrot": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "cat": {
+   "balanced": 0.8634,
+   "strict": 0.9426
+  },
+  "cereal": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "chair": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "child": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "chocolate": {
+   "balanced": 0.9038,
+   "strict": 0.9426
+  },
+  "clean": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "close": {
+   "balanced": 0.9425,
+   "strict": 0.9426
+  },
+  "closet": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "cloud": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "clown": {
+   "balanced": 0.8351,
+   "strict": 0.9426
+  },
+  "cow": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "cowboy": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "cry": {
+   "balanced": 0.7902,
+   "strict": 0.9426
+  },
+  "cut": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "cute": {
+   "balanced": 0.9878,
+   "strict": 0.9878
+  },
+  "dad": {
+   "balanced": 0.9575,
+   "strict": 0.9575
+  },
+  "dance": {
+   "balanced": 0.6804,
+   "strict": 0.9426
+  },
+  "dirty": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "dog": {
+   "balanced": 0.9911,
+   "strict": 0.9911
+  },
+  "doll": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "donkey": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "down": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "drawer": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "drink": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "drop": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "dry": {
+   "balanced": 0.9356,
+   "strict": 0.9426
+  },
+  "duck": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "ear": {
+   "balanced": 0.9461,
+   "strict": 0.9461
+  },
+  "elephant": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "empty": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "every": {
+   "balanced": 0.6759,
+   "strict": 0.9426
+  },
+  "face": {
+   "balanced": 0.9537,
+   "strict": 0.9537
+  },
+  "fall": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "farm": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "fast": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "feet": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "find": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "fine": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "finish": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "fireman": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "first": {
+   "balanced": 0.7763,
+   "strict": 0.9426
+  },
+  "fish": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "flag": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "food": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "for": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "frenchfries": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "frog": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "garbage": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "gift": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "giraffe": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "girl": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "give": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "go": {
+   "balanced": 0.8157,
+   "strict": 0.9426
+  },
+  "goose": {
+   "balanced": 0.9349,
+   "strict": 0.9426
+  },
+  "grandma": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "grandpa": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "green": {
+   "balanced": 0.7856,
+   "strict": 0.9426
+  },
+  "gum": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "hair": {
+   "balanced": 0.8988,
+   "strict": 0.9426
+  },
+  "happy": {
+   "balanced": 0.8424,
+   "strict": 0.9426
+  },
+  "hat": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "hate": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "have": {
+   "balanced": 0.9684,
+   "strict": 0.9684
+  },
+  "head": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "hear": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "helicopter": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "hello": {
+   "balanced": 0.9498,
+   "strict": 0.9498
+  },
+  "hen": {
+   "balanced": 0.9555,
+   "strict": 0.9555
+  },
+  "hesheit": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "high": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "home": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "horse": {
+   "balanced": 0.7644,
+   "strict": 0.9426
+  },
+  "hot": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "hungry": {
+   "balanced": 0.9176,
+   "strict": 0.9426
+  },
+  "icecream": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "if": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "into": {
+   "balanced": 0.8053,
+   "strict": 0.9426
+  },
+  "jacket": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "jeans": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "jump": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "kiss": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "kitty": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "lamp": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "later": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "like": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "lion": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "listen": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "look": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "loud": {
+   "balanced": 0.9392,
+   "strict": 0.9426
+  },
+  "mad": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "make": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "man": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "many": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "milk": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "minemy": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "mitten": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "mom": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "moon": {
+   "balanced": 0.9331,
+   "strict": 0.9426
+  },
+  "morning": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "mouse": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "nap": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "napkin": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "night": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "no": {
+   "balanced": 0.8578,
+   "strict": 0.9426
+  },
+  "noisy": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "now": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "nuts": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "on": {
+   "balanced": 0.8887,
+   "strict": 0.9426
+  },
+  "open": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "orange": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "outside": {
+   "balanced": 0.9667,
+   "strict": 0.9667
+  },
+  "owie": {
+   "balanced": 0.6982,
+   "strict": 0.9426
+  },
+  "owl": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "pajamas": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "pen": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "penny": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "pig": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "pizza": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "please": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "police": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "pool": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "potty": {
+   "balanced": 0.9648,
+   "strict": 0.9648
+  },
+  "pretend": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "pretty": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "puppy": {
+   "balanced": 0.7477,
+   "strict": 0.9426
+  },
+  "puzzle": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "quiet": {
+   "balanced": 0.932,
+   "strict": 0.9426
+  },
+  "radio": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "rain": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "read": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "refrigerator": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "room": {
+   "balanced": 0.692,
+   "strict": 0.9426
+  },
+  "sad": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "same": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "scissors": {
+   "balanced": 0.8227,
+   "strict": 0.9426
+  },
+  "see": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "shhh": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "shirt": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "shower": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "sick": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "sleep": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "sleepy": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "smile": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "snack": {
+   "balanced": 0.6954,
+   "strict": 0.9426
+  },
+  "stairs": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "stay": {
+   "balanced": 0.7648,
+   "strict": 0.9426
+  },
+  "store": {
+   "balanced": 0.874,
+   "strict": 0.9426
+  },
+  "story": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "stuck": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "sun": {
+   "balanced": 0.866,
+   "strict": 0.9426
+  },
+  "talk": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "taste": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "thankyou": {
+   "balanced": 0.96,
+   "strict": 0.96
+  },
+  "there": {
+   "balanced": 0.7075,
+   "strict": 0.9426
+  },
+  "think": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "thirsty": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "tiger": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "time": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "tomorrow": {
+   "balanced": 0.926,
+   "strict": 0.9426
+  },
+  "tongue": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "toothbrush": {
+   "balanced": 0.8117,
+   "strict": 0.9426
+  },
+  "touch": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "toy": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "tree": {
+   "balanced": 0.8112,
+   "strict": 0.9426
+  },
+  "tv": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "uncle": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "underwear": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "up": {
+   "balanced": 0.6845,
+   "strict": 0.9426
+  },
+  "water": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "weus": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "where": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "white": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "who": {
+   "balanced": 0.8727,
+   "strict": 0.9426
+  },
+  "will": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "wolf": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "yellow": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "yes": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "yesterday": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "yourself": {
+   "balanced": 0.7476,
+   "strict": 0.9426
+  },
+  "yucky": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "zebra": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  },
+  "zipper": {
+   "balanced": 0.6707,
+   "strict": 0.9426
+  }
+ }
+}
